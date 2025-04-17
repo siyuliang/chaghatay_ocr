@@ -1,0 +1,17 @@
+all_arabic_scripts
+manuscript      lines  CER     WER   
+--------------------------------------------------------------
+Jarring_Prov_2     10  0.9389  7.6000
+Jarring_Prov_3      8  0.9175  7.1250
+Jarring_Prov_4      9  0.8729  7.7778
+Jarring_Prov_5      9  0.9154  7.8889
+ALL                36  0.9118  7.6111
+
+arabic_best
+manuscript      lines  CER     WER   
+--------------------------------------------------------------
+Jarring_Prov_2     10  0.9644  7.6000
+Jarring_Prov_3      8  0.9109  7.1250
+Jarring_Prov_4      9  0.8814  7.7778
+Jarring_Prov_5      9  0.9256  7.8889
+ALL                36  0.9222  7.6111
