@@ -1,0 +1,4967 @@
+[
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "1a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_001_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_001_r.Lanczos.800.65_1a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_001_r.Lanczos.800.65_1a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "قرعه نام فال کلام الله شریف",
+        "latin_text": "qrʾh nam fal klam allh šryf"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "حضرت اِمام جعفر صادق",
+        "latin_text": "ḥżrt aĭmam ǰʾfr ṣadq"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عَنْهُ نینک",
+        "latin_text": "rży allh ʾăn°hŭ nynk"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "شریف",
+        "latin_text": "šryf"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "منقول لاری دین دور",
+        "latin_text": "mnqwl lary dyn dwr"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "شک یوق",
+        "latin_text": "šk ywq"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "1b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_001_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_001_v.Lanczos.800.65_1b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_001_v.Lanczos.800.65_1b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "بسم الله الرَّحمٰن الرّحیم",
+        "latin_text": "bsm allh alr~ăḥmàn alr~ḥym"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰالَمِیْنَ وَالصّلوٰاةِ",
+        "latin_text": "aăl°ḥăm°dŭ lĭl~àhĭ răb~ĭ al°ʾàalămĭy°nă wăalṣ~lwàaṫĭ"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "وَالسّلٰامُ عَلیٰ خَیْرِ خَلْقُهْ مَحَمَّدٌ وَآلهِ وَصَحْبَهْ",
+        "latin_text": "wăals~làamŭ ʾălyà xăy°rĭ xăl°qŭh° măḥăm~ădû wăālhĭ wăṣăḥ°băh°"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "اَجْمَعِینْ امَّا بعد حضرت اِمام جعفر صادق",
+        "latin_text": "aăǰ°măʾĭyn° am~ăa bʾd ḥżrt aĭmam ǰʾfr ṣadq"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین بو فال کلام شریف نینک معنای",
+        "latin_text": "rży allh ʾnh dyn bw fal klam šryf nynk mʾnay"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "حقیقه بیلان حرف ابجدنینک ضمیرلاری بیلّه تصنیف",
+        "latin_text": "ḥqyqh bylan ḥrf abǰdnynk żmyrlary byl~h tṣnyf"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "قیلیب دور. مونینک اوچون تورت قیرلیق بر یغاچ",
+        "latin_text": "qylyb dwr. mwnynk awčwn twrt qyrlyq br yġač"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "لوح قیلیب اول لوح نینک تورت طرفیکا حرف ابجدنی",
+        "latin_text": "lwḥ qylyb awl lwḥ nynk twrt ṭrfyka ḥrf abǰdny"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "ترتیب برکایلار. اوج الف ا ا ا ینه بر یوزیکه اوچ",
+        "latin_text": "trtyb brkaylar. awǰ alf a a a ynh br ywzykh awč"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "ب ب ب ینه بر یوزیکا اوچ جیم ج ج ج ینه بر یوزی",
+        "latin_text": "b b b ynh br ywzyka awč ǰym ǰ ǰ ǰ ynh br ywzy"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "که اوچ دال تی ترتیب برکای مذکور بو فال نام نی اندین",
+        "latin_text": "kh awč dal ty trtyb brkay mz_kwr bw fal nam ny andyn"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "اوچ فاتحه شریف اوچ ایته الکرسی اوچ سوره اخلاص یته",
+        "latin_text": "awč fatḥh šryf awč ayth alkrsy awč swrh axlaṣ yth"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "مرتبه درود شریف اوقوب اندین بو دعای فال مبارک",
+        "latin_text": "mrtbh drwd šryf awqwb andyn bw dʾay fal mbark"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "2a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_002_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_002_r.Lanczos.800.65_2a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_002_r.Lanczos.800.65_2a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "نی اوقوب کونکلیداکی مراد مقصد حاجت لارنی نیت",
+        "latin_text": "ny awqwb kwnklydaky mrad mqṣd ḥaǰt larny nyt"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "قیلیب پاکیزه لوح نینک اوستیکا تاشلاغایلار اول",
+        "latin_text": "qylyb pakyzh lwḥ nynk awstyka tašlaġaylar awl"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "دعای فال مبارک بودور. بسم الله الرَّحمن الرَّحیم",
+        "latin_text": "dʾay fal mbark bwdwr. bsm allh alr~ăḥmn alr~ăḥym"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "اللّٰهُمَّ اِنَّی تَوکَّلْتُ عَلَیْکَ وَ تَفألَتَ بِکْتابِکَ الْکَرِیْم",
+        "latin_text": "all~àhŭm~ă aĭn~ăy tăwk~ăl°tŭ ʾălăy°kă wă tăfʾalătă bĭk°tabĭkă al°kărĭy°m"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "فَاَرَّنِی مٰا هُوالْمَکْنُونَ فیِ سِرَکَ الْمَکْنُونَ اللَّهُمَّ انّتَ",
+        "latin_text": "făaăr~ănĭy màa hŭwal°măk°nŭwnă fyĭ sĭrăkă al°măk°nŭwnă all~ăhŭm~ă an~tă"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "الْمُلْکِ الَحِقْ الَّذِی لٰا آلِه اِلّٰا اَنْتَ یٰارحْمٰنْ",
+        "latin_text": "al°mŭl°kĭ alăḥĭq° al~ăz_ĭy làa ālĭh aĭl~àa aăn°tă yàarḥ°màn°"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "یٰارَحِیْم بِعِبٰادِکَ وَ الْحَمْدُ لِلَّهِ رَبِّ الْعٰالَمِیْنَ",
+        "latin_text": "yàarăḥĭy°m bĭʾĭbàadĭkă wă al°ḥăm°dŭ lĭl~ăhĭ răb~ĭ al°ʾàalămĭy°nă"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "ینه اوچ مرتبه درودی شریف اوقوب اندین فال نسحه",
+        "latin_text": "ynh awč mrtbh drwdy šryf awqwb andyn fal nsḥh"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "شریف کا باقیب یخشی یمانلیق نی کتاب بیلّه اوقوب معلوم",
+        "latin_text": "šryf ka baqyb yxšy ymanlyq ny ktab byl~h awqwb mʾlwm"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "قیلغیل مونینک سوال جواب لاریغه قایلاب عمل قیلغایلار",
+        "latin_text": "qylġyl mwnynk swal ǰwab laryġh qaylab ʾml qylġaylar"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "دیب دورلار ا ا ا قَالَ الله تَعٰالی لٰا آلِهَ اِلَّا هُوَ",
+        "latin_text": "dyb dwrlar a a a qăală allh tăʾàaly làa ālĭhă aĭl~ăa hŭwă"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "الْحَیِ الْقَیَّومْ حضرت امام جعفر صادق رضی الله عنه دین",
+        "latin_text": "al°ḥăyĭ al°qăy~ăwm° ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "نقل قیلیب دورلارکیم ای فال ایکاسی آکاه و دانا بولغیل",
+        "latin_text": "nql qylyb dwrlarkym ay fal aykasy ākah w dana bwlġyl"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "2b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_002_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_002_v.Lanczos.800.65_2b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_002_v.Lanczos.800.65_2b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "کیم بو فال سنکا کلیب دور حضرت آدم علیه السّلام نینک",
+        "latin_text": "kym bw fal snka klyb dwr ḥżrt ādm ʾlyh als~lam nynk"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "فالی دور بشارت دور سنکا حق تعالی سنینک نکهید امرینک",
+        "latin_text": "faly dwr bšart dwr snka ḥq tʾaly snynk nkhyd amrynk"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "دور هر قایداغ ایش غه قدم قویسه مبارک بولغای",
+        "latin_text": "dwr hr qaydaġ ayš ġh qdm qwysh mbark bwlġay"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "ایکی جهاندا شادمان مسرور بولورسن مراد سنینک دور",
+        "latin_text": "ayky ǰhanda šadman msrwr bwlwrsn mrad snynk dwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ایلکینک که تولا مال حاصل بولور غائب مراث غایب",
+        "latin_text": "aylkynk kh twla mal ḥaṣl bwlwr ġaʾyb mraṯ ġayb"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "فُل مال قولونکغه کلیب دولت اقبال یوز کلتورکای",
+        "latin_text": "fŭl mal qwlwnkġh klyb dwlt aqbal ywz kltwrkay"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "فرزندی اولادی تولا بولور و لیکن دشمن لاریکه غالیب",
+        "latin_text": "frzndy awlady twla bwlwr w lykn dšmn larykh ġalyb"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "کلور حضرت دانیال علیه السّلام ایتیب دورلارکیم جمیع بلآ",
+        "latin_text": "klwr ḥżrt danyal ʾlyh als~lam aytyb dwrlarkym ǰmyʾ blā"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "و قضادین سهری جادودین امین بولور کُلّی مرادینک",
+        "latin_text": "w qżadyn shry ǰadwdyn amyn bwlwr kŭl~y mradynk"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "غه یتارسن انشأ الله تعالی عبادت لارینکنی ترک قیلماغیل",
+        "latin_text": "ġh ytarsn anšʾa allh tʾaly ʾbadt larynkny trk qylmaġyl"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": ". درود شریف نی تولا اوقوغیل تاپارسن",
+        "latin_text": ". drwd šryf ny twla awqwġyl taparsn"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "ا ا ب ُقٰالَ اللهِ تَعٰالَى قُلْ مَتٰاعِ الدّنْيٰا قَلِيْلٌ وَالْاَخِرَة",
+        "latin_text": "a a b ŭqàală allhĭ tăʾàalăى qŭl° mătàaʾĭ ald~n°ẏàa qălĭẏ°lû wăal°aăxĭrăṫ"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "حضرت اِمام جعفر صادق رضی الله عنه نقل قیلیب دور",
+        "latin_text": "ḥżrt aĭmam ǰʾfr ṣadq rży allh ʾnh nql qylyb dwr"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "3a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_003_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_003_r.Lanczos.800.65_3a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_003_r.Lanczos.800.65_3a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ای فال ایکاسی بیلکیل و اکاه و دانا بولغیل کیم بو فال سنکا",
+        "latin_text": "ay fal aykasy bylkyl w akah w dana bwlġyl kym bw fal snka"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "کلیب دورلارکیم بو حضرت ابراهیم علیه السّلام نینک فالی",
+        "latin_text": "klyb dwrlarkym bw ḥżrt abrahym ʾlyh als~lam nynk faly"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "دور خدای تعالی سنکا شونداغ برکت برکایکه بر دانه غه",
+        "latin_text": "dwr xday tʾaly snka šwndaġ brkt brkaykh br danh ġh"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "مینک دانه بولغای دشمن لارینک ایاغینکدا پایمال بولور",
+        "latin_text": "mynk danh bwlġay dšmn larynk ayaġynkda paymal bwlwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "اوشبو یلدا بر سفر مبارک بولغای فائده کورکایسن یخشی",
+        "latin_text": "awšbw ylda br sfr mbark bwlġay faʾydh kwrkaysn yxšy"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "لاردین تربیت بولغای عبادت لارینکنی ترک قیلماغیل",
+        "latin_text": "lardyn trbyt bwlġay ʾbadt larynkny trk qylmaġyl"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "خواجه علیه الصَّلواة والسّلام غه صلوات تولا ایتغیل آخر",
+        "latin_text": "xwaǰh ʾlyh alṣ~ălwaṫ wals~lam ġh ṣlwat twla aytġyl āxr"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "ارواح پر مشایخ لاردین استعانت بولور هر قایداغ ایش",
+        "latin_text": "arwaḥ pr mšayx lardyn astʾant bwlwr hr qaydaġ ayš"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "قه قدم قویسه لار یخشی اولادینک مبارک بولوب زن",
+        "latin_text": "qh qdm qwysh lar yxšy awladynk mbark bwlwb zn"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "فرزند زنده لارینک تولا بولور نکاح یخشی دور غایب لارینک",
+        "latin_text": "frznd zndh larynk twla bwlwr nkaḥ yxšy dwr ġayb larynk"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "حاظر بولور اوغری آلغان نمرسه نک کمان دارنینک قولی دا",
+        "latin_text": "ḥaẓr bwlwr awġry ālġan nmrsh nk kman darnynk qwly da"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "بولور امیدلارینکغه یتیب آخر شادمانلیق غه یتارسن",
+        "latin_text": "bwlwr amydlarynkġh ytyb āxr šadmanlyq ġh ytarsn"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "بر نچه کمرسه نک بار الدینکدا کین لارینکدا دشمن لیک",
+        "latin_text": "br nčh kmrsh nk bar aldynkda kyn larynkda dšmn lyk"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "3b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_003_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_003_v.Lanczos.800.65_3b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_003_v.Lanczos.800.65_3b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "یتکورماک نی خواهلایدور سرَّینکنی کشیدین پنهان",
+        "latin_text": "ytkwrmak ny xwahlaydwr sr~ăynkny kšydyn pnhan"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "توتغیل مرادینکغه یتارسن انشأ الله ا ا ج",
+        "latin_text": "twtġyl mradynkġh ytarsn anšʾa allh a a ǰ"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "قٰالَ الله تَعٰالَی ای فال ایکاسی بیلکیل آکاه دانا بولغیل",
+        "latin_text": "qàală allh tăʾàalăy ay fal aykasy bylkyl ākah dana bwlġyl"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "کیم حضرت امام جعفر صادق رضی الله عنه نقل قیلیب دور",
+        "latin_text": "kym ḥżrt amam ǰʾfr ṣadq rży allh ʾnh nql qylyb dwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "لارکیم بو فال حضرت آدم علیه السّلام نینک فالی دور اگر",
+        "latin_text": "larkym bw fal ḥżrt ādm ʾlyh als~lam nynk faly dwr agr"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "اگر دشمن لارینکدین سوال بولسه البتّه غالب کلورسن",
+        "latin_text": "agr dšmn larynkdyn swal bwlsh albt~h ġalb klwrsn"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "دعوادین بولسه دعواکَرینک نینک دعواسی باطل بولور",
+        "latin_text": "dʾwadyn bwlsh dʾwakărynk nynk dʾwasy baṭl bwlwr"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "هرنه مرادینک بولسه مقصودلارینکغه یتارسن و هرنه",
+        "latin_text": "hrnh mradynk bwlsh mqṣwdlarynkġh ytarsn w hrnh"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "یمانلیق ایشلارینک اونکغه کلیب یخشی لیق غه مبدّل",
+        "latin_text": "ymanlyq ayšlarynk awnkġh klyb yxšy lyq ġh mbd~l"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "بولور پادشاه لاردین مرادینکغه یتارسن اولاردین التفات",
+        "latin_text": "bwlwr padšah lardyn mradynkġh ytarsn awlardyn altfat"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "کورارسن سفردین بولسه فایده کورورسن اغریقدین بولسه",
+        "latin_text": "kwrarsn sfrdyn bwlsh faydh kwrwrsn aġryqdyn bwlsh"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "دیو پری دین جین شیاطین زیانداشت دین ترور",
+        "latin_text": "dyw pry dyn ǰyn šyaṭyn zyandašt dyn trwr"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "عزایم اوقوتغیل کونی سه شنبه ترور انشأ الله",
+        "latin_text": "ʾzaym awqwtġyl kwny sh šnbh trwr anšʾa allh"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "4a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_004_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_004_r.Lanczos.800.65_4a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_004_r.Lanczos.800.65_4a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "شفا تاپار قولونک غه تولا مال کلور دنیادار بولوب",
+        "latin_text": "šfa tapar qwlwnk ġh twla mal klwr dnyadar bwlwb"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "رزقینک تولا بولور ا د د قال الله تعالی الَّذین ینفقو",
+        "latin_text": "rzqynk twla bwlwr a d d qal allh tʾaly al~ăz_yn ynfqw"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "اَمْوٰالَهُمْ فی سبیل الایات حضرت امام جعفر صادق",
+        "latin_text": "aăm°wàalăhŭm° fy sbyl alayat ḥżrt amam ǰʾfr ṣadq"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین نقل قیلیب دورلارکیم ای فال ایکاسی",
+        "latin_text": "rży allh ʾnh dyn nql qylyb dwrlarkym ay fal aykasy"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "آکاه و دانا بولغیل کیم بو فال سنکا کلیب دور حضرت نوح",
+        "latin_text": "ākah w dana bwlġyl kym bw fal snka klyb dwr ḥżrt nwḥ"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "علیه السّلام نینک فالی دور نوح علیه السّلام دعا قیلیب",
+        "latin_text": "ʾlyh als~lam nynk faly dwr nwḥ ʾlyh als~lam dʾa qylyb"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "قَوْم دشمن لاری هلاک بولغاندور خدای تعالی قموغ دشمن",
+        "latin_text": "qăw°m dšmn lary hlak bwlġandwr xday tʾaly qmwġ dšmn"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "لارنی هلاک قیلور خدای تعالی غه شکر قیلغیل بلآ قضادین",
+        "latin_text": "larny hlak qylwr xday tʾaly ġh škr qylġyl blā qżadyn"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "امین بولورسن اغریق اوچون ردنام شریف اوقوغیل",
+        "latin_text": "amyn bwlwrsn aġryq awčwn rdnam šryf awqwġyl"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "جمیع حاجت لارینک روا بولور تسبیح تهلیل درودی شریف",
+        "latin_text": "ǰmyʾ ḥaǰt larynk rwa bwlwr tsbyḥ thlyl drwdy šryf"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": ". نی تولا اوقوغیل هر قایداغ حاجت لارینک روا بولور",
+        "latin_text": ". ny twla awqwġyl hr qaydaġ ḥaǰt larynk rwa bwlwr"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": ". سفردین فائده کورورسن غایب لارینک اوزوندا کلور",
+        "latin_text": ". sfrdyn faʾydh kwrwrsn ġayb larynk awzwnda klwr"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "نکاح دین فائده یوق بی وفا دور اوغری الغان ییتکان",
+        "latin_text": "nkaḥ dyn faʾydh ywq by wfa dwr awġry alġan yytkan"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "4b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_004_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_004_v.Lanczos.800.65_4b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_004_v.Lanczos.800.65_4b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "قاچقان تیپالماس اوزکه ایشلارینک بولسه یخشی",
+        "latin_text": "qačqan typalmas awzkh ayšlarynk bwlsh yxšy"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "دور انشأ الله ا ب ا قال الله تعالی ختم الله عٰلَی قَلوُ",
+        "latin_text": "dwr anšʾa allh a b a qal allh tʾaly xtm allh ʾàlăy qălwŭ"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "بهُم عَلَی سَمْعَهُوْمُ ألایَةَ حضرت امام جعفر صادق رضی",
+        "latin_text": "bhŭm ʾălăy săm°ʾăhŭw°mŭ ʾalayăṫă ḥżrt amam ǰʾfr ṣadq rży"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "الله عنه دین نقل قیلیب دورلارکیم ای فال ایکاسی بیلکیل",
+        "latin_text": "allh ʾnh dyn nql qylyb dwrlarkym ay fal aykasy bylkyl"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "آکاه دانا بولغیل کیم بو فال سنکا کلیب دور هرنه نیت قیلغان",
+        "latin_text": "ākah dana bwlġyl kym bw fal snka klyb dwr hrnh nyt qylġan"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "بولسانک صبر قیلغیل اکر شتاب قیلسانک فائده یوق دور",
+        "latin_text": "bwlsank ṣbr qylġyl akr štab qylsank faʾydh ywq dwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "مصلحت لارینک بوزولور ترک قیلغیل اوغری الغان",
+        "latin_text": "mṣlḥt larynk bwzwlwr trk qylġyl awġry alġan"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "ییتکان قاچقان غایب دین بولسه کلماس اغریقدین",
+        "latin_text": "yytkan qačqan ġayb dyn bwlsh klmas aġryqdyn"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "بولسه خطردور دشمن لارینک تولادور درود اوقوغیل",
+        "latin_text": "bwlsh xṭrdwr dšmn larynk twladwr drwd awqwġyl"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "غالب کلور ذکر تسبیح لارنی طلب لارینکنی ترک قیلماغیل",
+        "latin_text": "ġalb klwr z_kr tsbyḥ larny ṭlb larynkny trk qylmaġyl"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "انشأ الله مرادینکغه ییتارسن اکر ا ج ا قٰالَ الله",
+        "latin_text": "anšʾa allh mradynkġh yytarsn akr a ǰ a qàală allh"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "تَعٰالَی وَ جَعَلْتَ لَهُ مٰا لاُ مَحَدٌ وَ دٰا وَ مَهْدَتْ لَهُ تَمیْهیدٰا",
+        "latin_text": "tăʾàalăy wă ǰăʾăl°tă lăhŭ màa laŭ măḥădû wă dàa wă măh°dăt° lăhŭ tămy°hydàa"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "ألایَةَ حضرت اِمام جعفر صادق رضی الله عنه نقل قیلیب",
+        "latin_text": "ʾalayăṫă ḥżrt aĭmam ǰʾfr ṣadq rży allh ʾnh nql qylyb"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "5a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_005_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_005_r.Lanczos.800.65_5a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_005_r.Lanczos.800.65_5a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "دورلارکیم ای فال ایکاسی آکاه و دانا بولغیل کیم بو فال",
+        "latin_text": "dwrlarkym ay fal aykasy ākah w dana bwlġyl kym bw fal"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "سنکا کلیب دور حضرت سلیمان علیه السّلام نینک فالی دور",
+        "latin_text": "snka klyb dwr ḥżrt slyman ʾlyh als~lam nynk faly dwr"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "سنکا بشارت دورکیم سنکا بر اولوغ دولت یوزلانیب بر",
+        "latin_text": "snka bšart dwrkym snka br awlwġ dwlt ywzlanyb br"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "شادمانلیق بار قولونک تولا نورغون فُل مال کلور",
+        "latin_text": "šadmanlyq bar qwlwnk twla nwrġwn fŭl mal klwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "غنی بولوب بر اولوغ منصب عملی کلور پادشاه سلطان لار",
+        "latin_text": "ġny bwlwb br awlwġ mnṣb ʾmly klwr padšah slṭan lar"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "دین اولوغ التفات بولور الماق ساتماقدین نفع کورورسن",
+        "latin_text": "dyn awlwġ altfat bwlwr almaq satmaqdyn nfʾ kwrwrsn"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "سوداکرلیکدین شریکدین نکاح دین یخشی لیق دور دشمن کا",
+        "latin_text": "swdakrlykdyn šrykdyn nkaḥ dyn yxšy lyq dwr dšmn ka"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "غالب کلورسن اغریق دین شفالیق دور غایب دین یوقالغان",
+        "latin_text": "ġalb klwrsn aġryq dyn šfalyq dwr ġayb dyn ywqalġan"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "ییتکان قاچقان تاپالور مزار مشایخ لاردین تربیت بولوب",
+        "latin_text": "yytkan qačqan tapalwr mzar mšayx lardyn trbyt bwlwb"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "اولوغلار سنکا دوست مهربان بولور انشأ الله ا د ا َقٰال",
+        "latin_text": "awlwġlar snka dwst mhrban bwlwr anšʾa allh a d a ăqàal"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "الله تَعٰالَی شَهِدَ اللّٰه اَنْهُ لٰا اِلٰهَ اِلّٰا هُو ألایَةَ حضرت",
+        "latin_text": "allh tăʾàalăy šăhĭdă all~àh aăn°hŭ làa aĭlàhă aĭl~àa hŭw ʾalayăṫă ḥżrt"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "امام جعفر صادق رضی الله عنه نقل قیلیب دورلارکیم ای",
+        "latin_text": "amam ǰʾfr ṣadq rży allh ʾnh nql qylyb dwrlarkym ay"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "فال ایکاسی آکاه و دانا بولغیلکیم بو فال سنکا کلیب دور هرنه",
+        "latin_text": "fal aykasy ākah w dana bwlġylkym bw fal snka klyb dwr hrnh"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "5b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_005_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_005_v.Lanczos.800.65_5b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_005_v.Lanczos.800.65_5b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ایشلارینک و نیت لارینک بولسه خدای تعالی غه توکّل",
+        "latin_text": "ayšlarynk w nyt larynk bwlsh xday tʾaly ġh twk~l"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "قیلغیل توکّلونک برله مشکل ایش لارینک آسان بولور",
+        "latin_text": "qylġyl twk~lwnk brlh mškl ayš larynk āsan bwlwr"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "بر نچه کشی لار بار سنکا کورونالماس همیشه حسد قیلور دشمن",
+        "latin_text": "br nčh kšy lar bar snka kwrwnalmas hmyšh ḥsd qylwr dšmn"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "لارکه غالیب کلورسن یقین زماندا اُمید مرادینکغه یتارسن",
+        "latin_text": "larkh ġalyb klwrsn yqyn zmanda aŭmyd mradynkġh ytarsn"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ایش لارینک کشاده بولور درودی شریف تولا ایتغیل",
+        "latin_text": "ayš larynk kšadh bwlwr drwdy šryf twla aytġyl"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "گناه لارینکغه توبه قیلغیل اغریق لارینکغه خدا شفالیق برور",
+        "latin_text": "gnah larynkġh twbh qylġyl aġryq larynkġh xda šfalyq brwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "خطری یوق اوچ نکاح لیق بولغای امانت اوز قولیغه کلور",
+        "latin_text": "xṭry ywq awč nkaḥ lyq bwlġay amant awz qwlyġh klwr"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "اوزون عمر کورکایسین غایب دین خبر کلور اوغری آلغان",
+        "latin_text": "awzwn ʾmr kwrkaysyn ġayb dyn xbr klwr awġry ālġan"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "قاچقان یوق بولغان تاپالور حضرت اسمائیل علیه السّلام دین",
+        "latin_text": "qačqan ywq bwlġan tapalwr ḥżrt asmaʾyyl ʾlyh als~lam dyn"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "تربیت بولور انشأ الله اگر ا ب ج قال الله تَعٰالَی اَنَّ",
+        "latin_text": "trbyt bwlwr anšʾa allh agr a b ǰ qal allh tăʾàalăy aăn~ă"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "لِلْمُتِقِیْنَ مَعٰازاً حَدٰائِقَ وَاَعْنٰا باًکَوٰائِبَ ألایَةَ حضرت",
+        "latin_text": "lĭl°mŭtĭqĭy°nă măʾàazaâ ḥădàaʾyĭqă wăaăʾ°nàa baâkăwàaʾyĭbă ʾalayăṫă ḥżrt"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "امام جعفر صادق رضی الله عنه نقل قیلب دورلارکیم ای",
+        "latin_text": "amam ǰʾfr ṣadq rży allh ʾnh nql qylb dwrlarkym ay"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "فال ایکاسی آکاه و دانا بولغیل کیم بو فال سنکا کلیب دور",
+        "latin_text": "fal aykasy ākah w dana bwlġyl kym bw fal snka klyb dwr"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "6a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_006_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_006_r.Lanczos.800.65_6a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_006_r.Lanczos.800.65_6a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "بو یل سن هرنه نیت قیلغان ایرسانک صبر قیلغیل و بعضی",
+        "latin_text": "bw yl sn hrnh nyt qylġan ayrsank ṣbr qylġyl w bʾży"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "ایشلارینک تارلیق بولوب ترورسین اول ایش لارنینک",
+        "latin_text": "ayšlarynk tarlyq bwlwb trwrsyn awl ayš larnynk"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "اسانلیقی اوچون طلب قیل ختم رسول الله اوقوب صلوات شریف",
+        "latin_text": "asanlyqy awčwn ṭlb qyl xtm rswl allh awqwb ṣlwat šryf"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "برله بولغیل صبر قیلغیل قرانکغولوقدین خلاص بولوب اولوغ",
+        "latin_text": "brlh bwlġyl ṣbr qylġyl qrankġwlwqdyn xlaṣ bwlwb awlwġ"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "لوقغه چیقارسین سینوب بر شادلیق یوز کلتورکای بو فال",
+        "latin_text": "lwqġh čyqarsyn synwb br šadlyq ywz kltwrkay bw fal"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "یونس علیه السّلام نینک فالی دور دشمن لارینک دوست بولور",
+        "latin_text": "ywns ʾlyh als~lam nynk faly dwr dšmn larynk dwst bwlwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "جمیع ایشلارینک یخشی لیقغه اورؤلوب غم قایغودین خلاص",
+        "latin_text": "ǰmyʾ ayšlarynk yxšy lyqġh awrwʾlwb ġm qayġwdyn xlaṣ"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "بولورسن انشأ الله ا ب د قَالَ الله تَعٰالَی فَتُوکُلُّ عَلیٰ اللهِ",
+        "latin_text": "bwlwrsn anšʾa allh a b d qăală allh tăʾàalăy fătŭwkŭl~ŭ ʾălyà allhĭ"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "اِنَّ اللهِ یُحیْبُ الْمُتوَکلیِنَ ألایَةَ حضرت امام جعفر صادق",
+        "latin_text": "aĭn~ă allhĭ yŭḥy°bŭ al°mŭtwăklyĭnă ʾalayăṫă ḥżrt amam ǰʾfr ṣadq"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "رضی اللهُ عنه نقل قیلیب دورلارکیم ای فال ایکاسی آکاه و دانا",
+        "latin_text": "rży allhŭ ʾnh nql qylyb dwrlarkym ay fal aykasy ākah w dana"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "بولغیل کیم بو فال سنکا کلیب دور حضرت دانیال علیه السّلام",
+        "latin_text": "bwlġyl kym bw fal snka klyb dwr ḥżrt danyal ʾlyh als~lam"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "نینک فالی دور سنینک ایشلارینک کمال قیلماغان امید قیلماغان",
+        "latin_text": "nynk faly dwr snynk ayšlarynk kmal qylmaġan amyd qylmaġan"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "یرلاردین مرادینکغه ییتارسین هرنه نیت قیلیب ایردینک",
+        "latin_text": "yrlardyn mradynkġh yytarsyn hrnh nyt qylyb ayrdynk"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "6b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_006_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_006_v.Lanczos.800.65_6b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_006_v.Lanczos.800.65_6b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "انی قیلغیل نکاح مبارک دور شریک چیلیق دین سفردین",
+        "latin_text": "any qylġyl nkaḥ mbark dwr šryk čylyq dyn sfrdyn"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "کسب دین فائده کورورسین دهقانچیلیقدین مرادینکغه",
+        "latin_text": "ksb dyn faʾydh kwrwrsyn dhqančylyqdyn mradynkġh"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "ییتارسن اون ایکی کونده مرادینکغه ییتیب شادمان بولور",
+        "latin_text": "yytarsn awn ayky kwndh mradynkġh yytyb šadman bwlwr"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "سین ارسلان لاردین خلاص بولوب غم قایغودین",
+        "latin_text": "syn arslan lardyn xlaṣ bwlwb ġm qayġwdyn"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "نجات تپارسن و دل جمیع بولورسین درودی شریف اوقو",
+        "latin_text": "nǰat tparsn w dl ǰmyʾ bwlwrsyn drwdy šryf awqw"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "غیل انشأ الله مرادینکغه ییتارسین ا ج ب قَالَ الله",
+        "latin_text": "ġyl anšʾa allh mradynkġh yytarsyn a ǰ b qăală allh"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "تَعٰالَی وَ لِیقِیهُمْ نَضْرةَ وَ سَرُوّراَ ألایَةَ حضرت اِمام جعفر",
+        "latin_text": "tăʾàalăy wă lĭyqĭyhŭm° năż°rṫă wă sărŭw~raă ʾalayăṫă ḥżrt aĭmam ǰʾfr"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "صادق رضی اللهُ عنه دین نقلی قیلیب دور ای فال ایکاسی",
+        "latin_text": "ṣadq rży allhŭ ʾnh dyn nqly qylyb dwr ay fal aykasy"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "بو فال سنکا کلیب دور حضرت یعقوب علیه السّلام نینک فالی",
+        "latin_text": "bw fal snka klyb dwr ḥżrt yʾqwb ʾlyh als~lam nynk faly"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "دور حضرت یوسف علیه السّلام اوچون بر نچه یل فرزند",
+        "latin_text": "dwr ḥżrt ywsf ʾlyh als~lam awčwn br nčh yl frznd"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "فراقت لارینی تارتیب دورسین هم فرزند اوچون غم قایغو",
+        "latin_text": "fraqt laryny tartyb dwrsyn hm frznd awčwn ġm qayġw"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "لارینک تولادور حضرت یعقوب علیه السّلام غه نذر نیاز",
+        "latin_text": "larynk twladwr ḥżrt yʾqwb ʾlyh als~lam ġh nz_r nyaz"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "قیلغیل غایب لارینک بولسه کوروشوب خرسند بولورسین",
+        "latin_text": "qylġyl ġayb larynk bwlsh kwrwšwb xrsnd bwlwrsyn"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "7a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_007_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_007_r.Lanczos.800.65_7a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_007_r.Lanczos.800.65_7a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "اوغری الغان ییتکان تیپالور شریک دین سفردین",
+        "latin_text": "awġry alġan yytkan typalwr šryk dyn sfrdyn"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "کسب دین آلماق ساتماقدین ینکی ایش ابتدا قیلماق",
+        "latin_text": "ksb dyn ālmaq satmaqdyn ynky ayš abtda qylmaq"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "دین خوب دور بر نچه کون صبر قیلغیل مرادینکغه یتار",
+        "latin_text": "dyn xwb dwr br nčh kwn ṣbr qylġyl mradynkġh ytar"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "سین اغریق اوزون دا شفا تاپار آیَتْ شفا اوقوت",
+        "latin_text": "syn aġryq awzwn da šfa tapar āyăt° šfa awqwt"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ماق کیراک انشأ الله اکر ا ب د قَال الله تعالی",
+        "latin_text": "maq kyrak anšʾa allh akr a b d qăal allh tʾaly"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "لَا تَحْزُنَ اِنَّ اللهِ ألایَةَ حضرت امام جعفر صادق",
+        "latin_text": "lăa tăḥ°zŭnă aĭn~ă allhĭ ʾalayăṫă ḥżrt amam ǰʾfr ṣadq"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین نقل قیلیب دورلارکیم ای فال",
+        "latin_text": "rży allh ʾnh dyn nql qylyb dwrlarkym ay fal"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "ایکاسی بو فال سنکا کلیب دور حضرت موسی علیه السّلام",
+        "latin_text": "aykasy bw fal snka klyb dwr ḥżrt mwsy ʾlyh als~lam"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "نینک فالی دور خدای تعالی حضرت موسی علیه السلام غه",
+        "latin_text": "nynk faly dwr xday tʾaly ḥżrt mwsy ʾlyh alslam ġh"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "اولوغ پیغمبرلیک بریب تورات آتلیق کتاب نی ایبار",
+        "latin_text": "awlwġ pyġmbrlyk bryb twrat ātlyq ktab ny aybar"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "دی تاکه خدای تعالی نینک یقین مهربان دوست لاری",
+        "latin_text": "dy takh xday tʾaly nynk yqyn mhrban dwst lary"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "دین بولدی سین هم حاجت لارینکنی طلب قیلیب",
+        "latin_text": "dyn bwldy syn hm ḥaǰt larynkny ṭlb qylyb"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "7b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_007_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_007_v.Lanczos.800.65_7b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_007_v.Lanczos.800.65_7b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "درودی شریف نی تولا اوقوغیل مرادینکچه بولور",
+        "latin_text": "drwdy šryf ny twla awqwġyl mradynkčh bwlwr"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "همه دشمن لارینکغه غالیب کلورسن دعوا بولسه نصرت تاپار",
+        "latin_text": "hmh dšmn larynkġh ġalyb klwrsn dʾwa bwlsh nṣrt tapar"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "سین اکر سفر دین بولسه خوب ایماس کسب که یخشی",
+        "latin_text": "syn akr sfr dyn bwlsh xwb aymas ksb kh yxšy"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "ترور شریک چیلیک یخشی ترور نکاح مبارک دور اکر",
+        "latin_text": "trwr šryk čylyk yxšy trwr nkaḥ mbark dwr akr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "اغریقدین ایرسه سحری جادودین ترور ردنام شریف",
+        "latin_text": "aġryqdyn ayrsh sḥry ǰadwdyn trwr rdnam šryf"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "اوقوتغای اوغری الغان ییتکان قاچقان غایب لاری",
+        "latin_text": "awqwtġay awġry alġan yytkan qačqan ġayb lary"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "تاپالیب شادمان بولورسین انشأ الله اکر ا ج د",
+        "latin_text": "tapalyb šadman bwlwrsyn anšʾa allh akr a ǰ d"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "قٰالَ الله تَعَالَی مِنْ حَادْ بالحَسْنَةَ فَلْهُ عُشْراً مَثَالْهٰا",
+        "latin_text": "qàală allh tăʾăalăy mĭn° ḥăad° balḥăs°năṫă făl°hŭ ʾŭš°raâ măṯăal°hàa"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "ألایَةَ حضرت امام جعفر صادق رضی الله عنه نقل",
+        "latin_text": "ʾalayăṫă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh nql"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "قیلیب دورکیم ای فال ایکاسی بو فال سنکا کلیب دور",
+        "latin_text": "qylyb dwrkym ay fal aykasy bw fal snka klyb dwr"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "بو فال عیسیٰ علیه السّلام نینک فالی دور سین تولا",
+        "latin_text": "bw fal ʾysyà ʾlyh als~lam nynk faly dwr syn twla"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "کشیلارکه دوستلوق یتکوزاسین اولار سنینک",
+        "latin_text": "kšylarkh dwstlwq ytkwzasyn awlar snynk"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "8a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_008_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_008_r.Lanczos.800.65_8a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_008_r.Lanczos.800.65_8a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ایش لارینکغه کورونماس حسد قیلور سنکا سحر جادو",
+        "latin_text": "ayš larynkġh kwrwnmas ḥsd qylwr snka sḥr ǰadw"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "قیلماقغه و سنی یوق قیلماغقه قصد قیلور الدینکدا یخشی و",
+        "latin_text": "qylmaqġh w sny ywq qylmaġqh qṣd qylwr aldynkda yxšy w"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "یومشاق سوزلاب سنکا حود قیلور اولارنینک سوزیکا هر",
+        "latin_text": "ywmšaq swzlab snka ḥwd qylwr awlarnynk swzyka hr"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "کیز باقماغیل مصلحت لاریکه کیرماکایسین هر طریقه",
+        "latin_text": "kyz baqmaġyl mṣlḥt larykh kyrmakaysyn hr ṭryqh"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "حاجت لارینکغه ییتارسین درودی شریف نی تولا",
+        "latin_text": "ḥaǰt larynkġh yytarsyn drwdy šryf ny twla"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "اوقوغیل اوغری الغان ییتکان قاچقان یوق بولغان",
+        "latin_text": "awqwġyl awġry alġan yytkan qačqan ywq bwlġan"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "تاپیلور غائب کلور عزّت حرمت لارینک نعمت لارینک",
+        "latin_text": "tapylwr ġaʾyb klwr ʾz~t ḥrmt larynk nʾmt larynk"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "ارتار رزقینک تولا بولور قموغ نوع غم قایغودین",
+        "latin_text": "artar rzqynk twla bwlwr qmwġ nwʾ ġm qayġwdyn"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "خلاص بولورسین اغریق بولسه عزایم اوقوتغیل انشأ",
+        "latin_text": "xlaṣ bwlwrsyn aġryq bwlsh ʾzaym awqwtġyl anšʾa"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "الله شفا تاپار خطر یوق ا د ج قٰالَ الله تَعٰالَی",
+        "latin_text": "allh šfa tapar xṭr ywq a d ǰ qàală allh tăʾàalăy"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "مُتکَیْنَ عَلَ الَّارَ اَئِكَ لٰاَیرُوْنَ فِیهٰا شَمْسٰا وَ لٰا",
+        "latin_text": "mŭtkăy°nă ʾălă al~ăară aăʾyĭḳă làaăyrŭw°nă fĭyhàa šăm°sàa wă làa"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "زَمْهَرِیرَ ألایَةَ و حضرت امام جعفر صادق رضی",
+        "latin_text": "zăm°hărĭyră ʾalayăṫă w ḥżrt amam ǰʾfr ṣadq rży"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "8b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_008_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_008_v.Lanczos.800.65_8b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_008_v.Lanczos.800.65_8b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین نقل قیلیب دورلارکیم ای فال",
+        "latin_text": "rży allh ʾnh dyn nql qylyb dwrlarkym ay fal"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "ایکاسی بو فال سنکا کلیب دور بو فال حضرت ایوب",
+        "latin_text": "aykasy bw fal snka klyb dwr bw fal ḥżrt aywb"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "علیه السلام نینک فالی دور سنکا بر کمرسه ینکی دین",
+        "latin_text": "ʾlyh alslam nynk faly dwr snka br kmrsh ynky dyn"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "دوستلوق رشته سینی باشلاب انینکدین و اولوغلار",
+        "latin_text": "dwstlwq ršth syny bašlab anynkdyn w awlwġlar"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "دین تولا فائده کورورسین هر ایشقه قدم قویسانک",
+        "latin_text": "dyn twla faʾydh kwrwrsyn hr ayšqh qdm qwysank"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "مبارک دور اولوغ مزار مشایخ لاردین مدد استمداد",
+        "latin_text": "mbark dwr awlwġ mzar mšayx lardyn mdd astmdad"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "بولور تولا خیرات ایش لار نصیب بولور نکاح مبارک",
+        "latin_text": "bwlwr twla xyrat ayš lar nṣyb bwlwr nkaḥ mbark"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "دور شریک دین کسب دین آنچه فائده یوق دیک",
+        "latin_text": "dwr šryk dyn ksb dyn ānčh faʾydh ywq dyk"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "ترور درودی شریف نی تولا اوقوب پیغمبرلارنینک",
+        "latin_text": "trwr drwdy šryf ny twla awqwb pyġmbrlarnynk"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "روح لاریغه بغیشلاغیل اغریق جراحت بولسه ایوب",
+        "latin_text": "rwḥ laryġh bġyšlaġyl aġryq ǰraḥt bwlsh aywb"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "علیه السّلام غه چراغ قیلغیل سفردین فائده یوق دشمن",
+        "latin_text": "ʾlyh als~lam ġh čraġ qylġyl sfrdyn faʾydh ywq dšmn"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "کا غالب کلورسن طلب دا بولسانک جمع حاجت لارینک",
+        "latin_text": "ka ġalb klwrsn ṭlb da bwlsank ǰmʾ ḥaǰt larynk"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "9a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_009_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_009_r.Lanczos.800.65_9a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_009_r.Lanczos.800.65_9a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "روا مشکل ایشلارینک آسان بولغوسی دور",
+        "latin_text": "rwa mškl ayšlarynk āsan bwlġwsy dwr"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "انشأالله ب ب ب قَالَ الله تَعٰالَی برُاةَّ براُة",
+        "latin_text": "anšʾaallh b b b qăală allh tăʾàalăy brŭaṫ~ă braŭṫ"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "مِنّ الله وَ رَسُولُهُ اِلّی الّذِینَ ألایَةَ حضرت",
+        "latin_text": "mĭn~ allh wă răsŭwlŭhŭ aĭl~y al~z_ĭynă ʾalayăṫă ḥżrt"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "امام جغفر صادق رضی الله عنه دین نقل قیلیب دور",
+        "latin_text": "amam ǰġfr ṣadq rży allh ʾnh dyn nql qylyb dwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "لارکیم ای فال ایکاسی آکاه و دانا بول بو فال سنکا کلیب دور",
+        "latin_text": "larkym ay fal aykasy ākah w dana bwl bw fal snka klyb dwr"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "حضرت محمد مصطفی صَلی الله علیه وسلم نینک فالی دور",
+        "latin_text": "ḥżrt mḥmd mṣṭfy ṣăly allh ʾlyh wslm nynk faly dwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "ایکی دنیا و آخرت ایش لارینک معمور بولوب جمع حاجت",
+        "latin_text": "ayky dnya w āxrt ayš larynk mʾmwr bwlwb ǰmʾ ḥaǰt"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "لارینک غه ییتارسین دشمن لارکه غالب کلورسین دعوانی",
+        "latin_text": "larynk ġh yytarsyn dšmn larkh ġalb klwrsyn dʾwany"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "آلورسین اولوغلاردین مرحمت التفات کورورسین",
+        "latin_text": "ālwrsyn awlwġlardyn mrḥmt altfat kwrwrsyn"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "عزّت دولت که ییتیب بر شادمانلیق کورورسین هر ایش",
+        "latin_text": "ʾz~t dwlt kh yytyb br šadmanlyq kwrwrsyn hr ayš"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "ده سنکا نصرت بار سفر مبارک دور سوداکرلیکدین شریک",
+        "latin_text": "dh snka nṣrt bar sfr mbark dwr swdakrlykdyn šryk"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "دین فایده تولا بولغوسی دور نکاح مبارک قیز اوغول",
+        "latin_text": "dyn faydh twla bwlġwsy dwr nkaḥ mbark qyz awġwl"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "9b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_009_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_009_v.Lanczos.800.65_9b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_009_v.Lanczos.800.65_9b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "فرزندلارینک تولا بولور اوغری الغان ییتکان",
+        "latin_text": "frzndlarynk twla bwlwr awġry alġan yytkan"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "قاچقان یوق بولغان تاپیلور غایب کلور خوش خبر ییتار",
+        "latin_text": "qačqan ywq bwlġan tapylwr ġayb klwr xwš xbr yytar"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "غم قایغودین خلاص بولورسین درودی شریف نی تولا",
+        "latin_text": "ġm qayġwdyn xlaṣ bwlwrsyn drwdy šryf ny twla"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "اوقوغیل کسل اوچون آیت شفا اوقوتغیل شفا",
+        "latin_text": "awqwġyl ksl awčwn āyt šfa awqwtġyl šfa"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "تاپار انشأ الله ب ب ا قٰالَ الله تَعٰالَی وَ مِنْ",
+        "latin_text": "tapar anšʾa allh b b a qàală allh tăʾàalăy wă mĭn°"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "تَیْقِ الله یجْعُلْ لَهُ مَخْرَ جٰاوَیْرِزْ قَهُ مِنْ حَیْث لَا",
+        "latin_text": "tăy°qĭ allh yǰ°ʾŭl° lăhŭ măx°ră ǰàawăy°rĭz° qăhŭ mĭn° ḥăy°ṯ lăa"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "یَتْحَسْبُ ألایَةَ حضرت امام جعفر صادق رضی الله",
+        "latin_text": "yăt°ḥăs°bŭ ʾalayăṫă ḥżrt amam ǰʾfr ṣadq rży allh"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "عنه دین نقل قیلیب دور ای فال ایگاسی آکاه بولغیل",
+        "latin_text": "ʾnh dyn nql qylyb dwr ay fal aygasy ākah bwlġyl"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "کیم بو فال سنکا کلیب دور هرنه نیت قیلیب ایردینک ترک",
+        "latin_text": "kym bw fal snka klyb dwr hrnh nyt qylyb ayrdynk trk"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "قیلغیل مصلحت لارینک یخشی ایماس دشمن لارینک",
+        "latin_text": "qylġyl mṣlḥt larynk yxšy aymas dšmn larynk"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "تولادور دعوا خوب ایماس غم قایغولارینک تولا",
+        "latin_text": "twladwr dʾwa xwb aymas ġm qayġwlarynk twla"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "صبر قیلغیل آخری بر طرف بولوب بلآ و قضادین اِمین",
+        "latin_text": "ṣbr qylġyl āxry br ṭrf bwlwb blā w qżadyn aĭmyn"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "10a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_010_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_010_r.Lanczos.800.65_10a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_010_r.Lanczos.800.65_10a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "بولورسین درود نجات ختمه سینی اوقوتغیل اغریقغه",
+        "latin_text": "bwlwrsyn drwd nǰat xtmh syny awqwtġyl aġryqġh"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "خطردور سفر مبارک بارغان یرده نکاح بولور",
+        "latin_text": "xṭrdwr sfr mbark barġan yrdh nkaḥ bwlwr"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "نعمت رزقینک تولا بولغوسی دور مرادینکغه یتارسین",
+        "latin_text": "nʾmt rzqynk twla bwlġwsy dwr mradynkġh ytarsyn"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "اِنشأ الله ب ب ج قَالَ الله تَعٰالَی قُلْ اِنَّ کَنْتُمْ",
+        "latin_text": "aĭnšʾa allh b b ǰ qăală allh tăʾàalăy qŭl° aĭn~ă kăn°tŭm°"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "تَحْبُوْنَ الله فٰا تَبْعُوْنیِ یَحْبَبَکُوم الله ألایَةَ حضرت",
+        "latin_text": "tăḥ°bŭw°nă allh fàa tăb°ʾŭw°nyĭ yăḥ°băbăkŭwm allh ʾalayăṫă ḥżrt"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "امام جعفر صادق رضی الله عنه رضی دین نقل قیلیب دور",
+        "latin_text": "amam ǰʾfr ṣadq rży allh ʾnh rży dyn nql qylyb dwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "لارکیم ای فال ایکاسی آکاه دانا بولغیلکم بو فال سنکا",
+        "latin_text": "larkym ay fal aykasy ākah dana bwlġylkm bw fal snka"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "کلیب دور حضرت نوح علیه السّلام نینک فالی دور هرنه",
+        "latin_text": "klyb dwr ḥżrt nwḥ ʾlyh als~lam nynk faly dwr hrnh"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "نیّت قیلیب ایردینک قیلغیل ترک قیلمای طلب قیلسانک",
+        "latin_text": "ny~t qylyb ayrdynk qylġyl trk qylmay ṭlb qylsank"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "حاجت لارینک روا مشکل لارینک آسان بولوب دعا",
+        "latin_text": "ḥaǰt larynk rwa mškl larynk āsan bwlwb dʾa"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "لارینک اجابت بولغوسی دور دشمن لارینک مقهور",
+        "latin_text": "larynk aǰabt bwlġwsy dwr dšmn larynk mqhwr"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "بولور ایکی یوزلوک حسد قیلغوچی کمرسه لارینک باردور",
+        "latin_text": "bwlwr ayky ywzlwk ḥsd qylġwčy kmrsh larynk bardwr"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "10b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_010_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_010_v.Lanczos.800.65_10b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_010_v.Lanczos.800.65_10b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "آکاه بولغیل سفرکه نکاحغه شریک چیلیک غه آنچه",
+        "latin_text": "ākah bwlġyl sfrkh nkaḥġh šryk čylyk ġh ānčh"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "خوب ایماس دور سوداکرلیکدین آلماق ساتماق",
+        "latin_text": "xwb aymas dwr swdakrlykdyn ālmaq satmaq"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "دین فائده کورورسین اوغری آلغان تاپیلور غائب",
+        "latin_text": "dyn faʾydh kwrwrsyn awġry ālġan tapylwr ġaʾyb"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "کلماس چهار پای دین طالع لارنینک خوب دور رز",
+        "latin_text": "klmas čhar pay dyn ṭalʾ larnynk xwb dwr rz"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "قینک معیشت لارینک نعمت لارینک آرتار قیز اوغول",
+        "latin_text": "qynk mʾyšt larynk nʾmt larynk ārtar qyz awġwl"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "فرزندلارینک تولا بولور کسل لارینکغه آیت شفا",
+        "latin_text": "frzndlarynk twla bwlwr ksl larynkġh āyt šfa"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "اوقوتغیل اوزون عمر کورورسین خطر یوق دور طلب ده",
+        "latin_text": "awqwtġyl awzwn ʾmr kwrwrsyn xṭr ywq dwr ṭlb dh"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "بولغیل مرادینکغه یتارسین انشأ الله ب ب ج",
+        "latin_text": "bwlġyl mradynkġh ytarsyn anšʾa allh b b ǰ"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "قَالَ الله تَعٰالَى يٰا اَيَّها الَّذِيْنَ آمَنُوا اصَبِْرُوا وَصَابِرُوا وَ",
+        "latin_text": "qăală allh tăʾàalăى ẏàa aăẏ~ăha al~ăz_ĭẏ°nă āmănŭwa aṣăbĭ°rŭwa wăṣăabĭrŭwa wă"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "رَابَطَّوا وَاتَقُو الله لَعَلْكُمْ تَفْلِحُوْنَ ألایَةَ حضرت",
+        "latin_text": "răabăṭ~ăwa wăatăqŭw allh lăʾăl°ḳŭm° tăf°lĭḥŭw°nă ʾalayăṫă ḥżrt"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "امام جعفر صادق رضی الله عنه دین نقل قیلیب دورلار",
+        "latin_text": "amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwrlar"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "کیم ای فال ایکاسی آکاه دانا بولغیل کیم بو فال سنکا کلیب",
+        "latin_text": "kym ay fal aykasy ākah dana bwlġyl kym bw fal snka klyb"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "11a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_011_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_011_r.Lanczos.800.65_11a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_011_r.Lanczos.800.65_11a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "دور حضرت ایوب علیه السّلام نینک فالی دور ای برادر",
+        "latin_text": "dwr ḥżrt aywb ʾlyh als~lam nynk faly dwr ay bradr"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "هرنه نیت قیلیب ایردینک ترک قیلغیل هرنه مصلحت",
+        "latin_text": "hrnh nyt qylyb ayrdynk trk qylġyl hrnh mṣlḥt"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "لارینک بولسه قیلماغیل اوزونکنی کویوب تورغان",
+        "latin_text": "larynk bwlsh qylmaġyl awzwnkny kwywb twrġan"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "اوتغه تاشلاماغیل بو کونلارده حاجت امیدلارینک",
+        "latin_text": "awtġh tašlamaġyl bw kwnlardh ḥaǰt amydlarynk"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "روا بولماس بر نچه کون درودی نجات اوقوب طلب",
+        "latin_text": "rwa bwlmas br nčh kwn drwdy nǰat awqwb ṭlb"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "قیلغیل مرادینکغه یتارسین انشأ الله ب ب ا ا",
+        "latin_text": "qylġyl mradynkġh ytarsyn anšʾa allh b b a a"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "قَالَ الله تَعٰالَى مَنْ عَمَلُ صٰالِحًا فَلَتْفُسْهُ ألایَةَ",
+        "latin_text": "qăală allh tăʾàalăى măn° ʾămălŭ ṣàalĭḥâa fălăt°fŭs°hŭ ʾalayăṫă"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "حضرت اِمام جعفر صادق رضی الله عنه دین نقل",
+        "latin_text": "ḥżrt aĭmam ǰʾfr ṣadq rży allh ʾnh dyn nql"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "قیلیب دورکیم ای فال ایکاسی آکاه و دانا بولغیل کیم",
+        "latin_text": "qylyb dwrkym ay fal aykasy ākah w dana bwlġyl kym"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "بو فال سنکا کلیب دور حضرت یونس علیه السّلام نینک",
+        "latin_text": "bw fal snka klyb dwr ḥżrt ywns ʾlyh als~lam nynk"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "فالی دور هرنه نیت قیلیب ایردینک قیلغیل ترک",
+        "latin_text": "faly dwr hrnh nyt qylyb ayrdynk qylġyl trk"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "اتماکیل سن قرانکغولوقدین چقیب بر یاروغلوقغه",
+        "latin_text": "atmakyl sn qrankġwlwqdyn čqyb br yarwġlwqġh"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "11b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_011_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_011_v.Lanczos.800.65_11b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_011_v.Lanczos.800.65_11b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "یتارسین بو مصلحت لارینک نی بوزماغیل اولوغ",
+        "latin_text": "ytarsyn bw mṣlḥt larynk ny bwzmaġyl awlwġ"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "پادشاه و اِمرالاردین فائده بولور عمل ایشی قولونکغه",
+        "latin_text": "padšah w aĭmralardyn faʾydh bwlwr ʾml ayšy qwlwnkġh"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "کلور دشمن لارینک دوست بولغوسی دور دعواگرینک",
+        "latin_text": "klwr dšmn larynk dwst bwlġwsy dwr dʾwagrynk"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "اوستیکا نصرت تاپارسین اغریقینک شفا تاپار",
+        "latin_text": "awstyka nṣrt taparsyn aġryqynk šfa tapar"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "اوغری الغان ییتکان قاچقان تاپیلور غایب کلور",
+        "latin_text": "awġry alġan yytkan qačqan tapylwr ġayb klwr"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "بر شادمانلیق غه یتارسین سفر نکاح شریکچیلیک",
+        "latin_text": "br šadmanlyq ġh ytarsyn sfr nkaḥ šrykčylyk"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "خوب دور کسب الماق ساتماق خو ایماس طلب لارینک",
+        "latin_text": "xwb dwr ksb almaq satmaq xw aymas ṭlb larynk"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "نی قیلغیل مرادینکغه ییتارسین انشأالله ب ج ج",
+        "latin_text": "ny qylġyl mradynkġh yytarsyn anšʾaallh b ǰ ǰ"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "قَالَ الله تَعٰالَى و الَّذِيْنَ آمَنُوا الصّالِحٰاتِ",
+        "latin_text": "qăală allh tăʾàalăى w al~ăz_ĭẏ°nă āmănŭwa alṣ~alĭḥàatĭ"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "ألایَةَ حضرت اِمام جعفر صادق رضی الله عنه دین",
+        "latin_text": "ʾalayăṫă ḥżrt aĭmam ǰʾfr ṣadq rży allh ʾnh dyn"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "نقیل قیلیب دورکیم ای فال ایکاسی آکاه دانا بولغیل کیم",
+        "latin_text": "nqyl qylyb dwrkym ay fal aykasy ākah dana bwlġyl kym"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "بو فال سنکا کلیب دور بو نیت نی قیلیب ایردینک",
+        "latin_text": "bw fal snka klyb dwr bw nyt ny qylyb ayrdynk"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "12a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_012_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_012_r.Lanczos.800.65_12a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_012_r.Lanczos.800.65_12a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "بر نچه کون صبر قیل اولوغ آقیب تورغان دریاغه یا تینکیز",
+        "latin_text": "br nčh kwn ṣbr qyl awlwġ āqyb twrġan dryaġh ya tynkyz"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "کا تاشلامیش سین بر نچه کون صلوات ذکر تسبیح لارنی",
+        "latin_text": "ka tašlamyš syn br nčh kwn ṣlwat z_kr tsbyḥ larny"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "اوقوب طلب قیلیب عبادت برله بولغیل دشمن لارینکغه",
+        "latin_text": "awqwb ṭlb qylyb ʾbadt brlh bwlġyl dšmn larynkġh"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "نصرت تاپارسین دشمن لارینک مقهور بولوب دوستلار",
+        "latin_text": "nṣrt taparsyn dšmn larynk mqhwr bwlwb dwstlar"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ینک شادمان بولغوسی دور غم قایغولاردین خلاص",
+        "latin_text": "ynk šadman bwlġwsy dwr ġm qayġwlardyn xlaṣ"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "بولورسین اولوغلار الدیغه باریشدین صبر قیل فائده",
+        "latin_text": "bwlwrsyn awlwġlar aldyġh baryšdyn ṣbr qyl faʾydh"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "یوق سفر نا مبارک نکاح هم خوب ایماس شریکدین آلماق",
+        "latin_text": "ywq sfr na mbark nkaḥ hm xwb aymas šrykdyn ālmaq"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "ساتماق دین نفعی یوق سرّینکنی پوشیده توت کشی نینک",
+        "latin_text": "satmaq dyn nfʾy ywq sr~ynkny pwšydh twt kšy nynk"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "سوزیکه کیرماکیل یوق بولغان تاپیلماس اغریق غه",
+        "latin_text": "swzykh kyrmakyl ywq bwlġan tapylmas aġryq ġh"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "حطر صبر قیل انشأ الله ب ج د قَالَ الله تَعٰالَى",
+        "latin_text": "ḥṭr ṣbr qyl anšʾa allh b ǰ d qăală allh tăʾàalăى"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "ُاِنّٰا عَرَضْنٰا الّاَمٰاتَةَ عَلَى السّٰمَوٰاتِ وَالّاَرْض",
+        "latin_text": "ŭaĭn~àa ʾărăż°nàa al~aămàatăṫă ʾălăى als~àmăwàatĭ wăal~aăr°ż"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "ألایَةَ حضرت امام جعفر صادق رضی الله عنه",
+        "latin_text": "ʾalayăṫă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "12b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_012_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_012_v.Lanczos.800.65_12b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_012_v.Lanczos.800.65_12b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "دین نقل قیلیب دورلارکیم ای فال ایکاسی آکاه دانا",
+        "latin_text": "dyn nql qylyb dwrlarkym ay fal aykasy ākah dana"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "بولغیلکیم بو فال سنکا کلیب دور خدای تعالی سنی قموغ",
+        "latin_text": "bwlġylkym bw fal snka klyb dwr xday tʾaly sny qmwġ"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "بلآ و قضادین آفت لاردین ساقلاب غم قایغودین خلاص",
+        "latin_text": "blā w qżadyn āft lardyn saqlab ġm qayġwdyn xlaṣ"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "قیلیب قرانکغولوق دین چیقاریب شادمان قیلغایلار دشمن",
+        "latin_text": "qylyb qrankġwlwq dyn čyqaryb šadman qylġaylar dšmn"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "لارینک تولادور حسد قیلغوچی حاسد تولادور احتیاط",
+        "latin_text": "larynk twladwr ḥsd qylġwčy ḥasd twladwr aḥtyaṭ"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "بیلّه بولغیل اوزونک برله تعویز همراه قیلغیل انشأالله",
+        "latin_text": "byl~h bwlġyl awzwnk brlh tʾwyz hmrah qylġyl anšʾaallh"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "ب ج ب قَالَ الله تَعٰالَى لَا تَخْفُ نَجُوْتَ مِنَ الْقَوْمِ",
+        "latin_text": "b ǰ b qăală allh tăʾàalăى lăa tăx°fŭ năǰŭw°tă mĭnă al°qăw°mĭ"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "اُلضٰالَمِيْنَ الایة حضرت اِمام جعفر صادق صادق",
+        "latin_text": "aŭlżàalămĭẏ°nă alayṫ ḥżrt aĭmam ǰʾfr ṣadq ṣadq"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین نقل قیلیب دور کیم ای فال ایکاسی بیلکیل",
+        "latin_text": "rży allh ʾnh dyn nql qylyb dwr kym ay fal aykasy bylkyl"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "آکاه دانا بولغیل کیم بو فال سنکا کلیب دور حضرت پیغمبر",
+        "latin_text": "ākah dana bwlġyl kym bw fal snka klyb dwr ḥżrt pyġmbr"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "علیه السّلام نینک فالی دور سنکا بشارت دور غم قایغو",
+        "latin_text": "ʾlyh als~lam nynk faly dwr snka bšart dwr ġm qayġw"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "بلآ و قضا آفت لاردین اغریق دین خلاص بولوب",
+        "latin_text": "blā w qża āft lardyn aġryq dyn xlaṣ bwlwb"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "13a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_013_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_013_r.Lanczos.800.65_13a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_013_r.Lanczos.800.65_13a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "یاروغلوقغه یتارسین قرانکغودین قوتولوب اوزون",
+        "latin_text": "yarwġlwqġh ytarsyn qrankġwdyn qwtwlwb awzwn"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "عمر کورکایسین بر سفرکه بارورسین مبارک بولغای",
+        "latin_text": "ʾmr kwrkaysyn br sfrkh barwrsyn mbark bwlġay"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "نکاح کونکلداکی دیک بولور الماق ستماق شریکدین",
+        "latin_text": "nkaḥ kwnkldaky dyk bwlwr almaq stmaq šrykdyn"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "فائده بولغوسی اولوغ دولت کا یتارسین انشأالله",
+        "latin_text": "faʾydh bwlġwsy awlwġ dwlt ka ytarsyn anšʾaallh"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ب د ب قَالَ الله تَعٰالَى وعِنْدَهُ مَقَاتْحِ الْغَيْبَ لٰا",
+        "latin_text": "b d b qăală allh tăʾàalăى wʾĭn°dăhŭ măqăat°ḥĭ al°ġăẏ°bă làa"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "يَعلْمُهٰا ألایَةَ حضرت اِمام جعفر صادق رضی الله عنه",
+        "latin_text": "ẏăʾl°mŭhàa ʾalayăṫă ḥżrt aĭmam ǰʾfr ṣadq rży allh ʾnh"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "دین نقل قیلیب دورلارکیم ای فال ایکاسی بیلکیل و آکاه دانا",
+        "latin_text": "dyn nql qylyb dwrlarkym ay fal aykasy bylkyl w ākah dana"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "بولغیل کیم بو فال سنکا کلیب دور بشارت دور خدای",
+        "latin_text": "bwlġyl kym bw fal snka klyb dwr bšart dwr xday"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "تعالی رحمت ایشیک لارینی سنینک یوزونک کا آچیب دور",
+        "latin_text": "tʾaly rḥmt ayšyk laryny snynk ywzwnk ka āčyb dwr"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "نعمت معیشت لارینک رزق لارینک کنکرو بولغوسی دور",
+        "latin_text": "nʾmt mʾyšt larynk rzq larynk knkrw bwlġwsy dwr"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "امید قیلغان ایش لارینک حاصل بولور سفرکه اوبدان نکاح",
+        "latin_text": "amyd qylġan ayš larynk ḥaṣl bwlwr sfrkh awbdan nkaḥ"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "مبارک دور اوغری الغان ییتکان قاچقان یوق بولغان",
+        "latin_text": "mbark dwr awġry alġan yytkan qačqan ywq bwlġan"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "13b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_013_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_013_v.Lanczos.800.65_13b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_013_v.Lanczos.800.65_13b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "تاپیلور آلماق ساتماقدین سوداکرلیکدین شریک",
+        "latin_text": "tapylwr ālmaq satmaqdyn swdakrlykdyn šryk"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "دین فائده کورورسین کوندین کونکه دولت یوزلانیب",
+        "latin_text": "dyn faʾydh kwrwrsyn kwndyn kwnkh dwlt ywzlanyb"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "دشمن لارینکغه غالب کلورسین دعوانی اولوغلار آلدیغه",
+        "latin_text": "dšmn larynkġh ġalb klwrsyn dʾwany awlwġlar āldyġh"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "باریش نی ترک قیل فائده یوق دور صبر قیلیب حاجت",
+        "latin_text": "baryš ny trk qyl faʾydh ywq dwr ṣbr qylyb ḥaǰt"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "لارینک نی خدادین تیلاب درودی شریف نی تولا اوقو",
+        "latin_text": "larynk ny xdadyn tylab drwdy šryf ny twla awqw"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "غیل اوزونک برله ردنام شریف نی همراه قیل مرادینک",
+        "latin_text": "ġyl awzwnk brlh rdnam šryf ny hmrah qyl mradynk"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "غه یتارسین انشأالله ب ا ب قَالَ الله تَعٰالَى وَاِنَّ",
+        "latin_text": "ġh ytarsyn anšʾaallh b a b qăală allh tăʾàalăى wăaĭn~ă"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "مِنْكُمْ الَّا وَاَرْدِهٰا ألایَةَ حضرت امام جعفر صادق",
+        "latin_text": "mĭn°ḳŭm° ală~a wăaăr°dĭhàa ʾalayăṫă ḥżrt amam ǰʾfr ṣadq"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین نقل قیلیب دور ای فال ایکاسی آکاه",
+        "latin_text": "rży allh ʾnh dyn nql qylyb dwr ay fal aykasy ākah"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "و دانا بولغیل کیم بو فال سنکا کلیب دور بو یل سنکا بر نچه",
+        "latin_text": "w dana bwlġyl kym bw fal snka klyb dwr bw yl snka br nčh"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "دشمن لاردین تشویش غم قایغولوق بولوب بر زیان",
+        "latin_text": "dšmn lardyn tšwyš ġm qayġwlwq bwlwb br zyan"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "واقعه بولادورغان دیک دور خدای تعالی غه عبادت",
+        "latin_text": "waqʾh bwladwrġan dyk dwr xday tʾaly ġh ʾbadt"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "14a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_014_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_014_r.Lanczos.800.65_14a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_014_r.Lanczos.800.65_14a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "قیلیب طلب ده بولوب ذکری تسبیح تهلیل صلوات درود",
+        "latin_text": "qylyb ṭlb dh bwlwb z_kry tsbyḥ thlyl ṣlwat drwd"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "بیلّه بولغیل اوزونک برله تعویز همراه قیلیب مزار مشایخ",
+        "latin_text": "byl~h bwlġyl awzwnk brlh tʾwyz hmrah qylyb mzar mšayx"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "لاردین استمداد تیلاب طلب ده بول هرنه حاجت لارینک",
+        "latin_text": "lardyn astmdad tylab ṭlb dh bwl hrnh ḥaǰt larynk"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "بولسه مرادینکغه یتارسین انشأالله تعالی ب ا ج",
+        "latin_text": "bwlsh mradynkġh ytarsyn anšʾaallh tʾaly b a ǰ"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "قَالَ الله تَعٰالَى وٰاَسَبغَ عَلَيْكُمْ نَعْمَهِ طٰاهِرَةُ وَبٰاطَنِهُ",
+        "latin_text": "qăală allh tăʾàalăى wàaăsăbġă ʾălăẏ°ḳŭm° năʾ°măhĭ ṭàahĭrăṫŭ wăbàaṭănĭhŭ"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "ألایََةَ حضرت امام جعفر صادق رضی الله عنه نقل",
+        "latin_text": "ʾalayăăṫă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh nql"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "قیلیب دورلارکیم بو فال سنکا کلیب دور آکاه دانا بولغیل",
+        "latin_text": "qylyb dwrlarkym bw fal snka klyb dwr ākah dana bwlġyl"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "کیم بو فال حضرت یونس علیه السّلام نینک فالی دور سنکا",
+        "latin_text": "kym bw fal ḥżrt ywns ʾlyh als~lam nynk faly dwr snka"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "بر مونچه آدم لاردین زخمت بولوب کونکلونک غم قایغولوق",
+        "latin_text": "br mwnčh ādm lardyn zxmt bwlwb kwnklwnk ġm qayġwlwq"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "بولوب پادشاه امیرا عملدارلاردین خفه لیق بولوب",
+        "latin_text": "bwlwb padšah amyra ʾmldarlardyn xfh lyq bwlwb"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "بر نچه کونده شادمانلیقغه چیقارسین غائب مال",
+        "latin_text": "br nčh kwndh šadmanlyqġh čyqarsyn ġaʾyb mal"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "و غائب میراث قولونکغه کلور سفردین شریک دین",
+        "latin_text": "w ġaʾyb myraṯ qwlwnkġh klwr sfrdyn šryk dyn"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "14b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_014_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_014_v.Lanczos.800.65_14b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_014_v.Lanczos.800.65_14b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "نکاحدین فرزند کنیزک دین سیونورسین شادمانلیق",
+        "latin_text": "nkaḥdyn frznd knyzk dyn sywnwrsyn šadmanlyq"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "بولور اوغری آلغان یوق بولغان ییتکان قاچقان تاپیلور",
+        "latin_text": "bwlwr awġry ālġan ywq bwlġan yytkan qačqan tapylwr"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "خوش خبر بولور منصب عملدار ایشی قولونکغه کلور غایب حاطر",
+        "latin_text": "xwš xbr bwlwr mnṣb ʾmldar ayšy qwlwnkġh klwr ġayb ḥaṭr"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "بولور کسل دین شفا تاپارسین انشأالله ب ا د",
+        "latin_text": "bwlwr ksl dyn šfa taparsyn anšʾaallh b a d"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "الَ الله تَعٰالَى وَ اَنْزَلْنٰامَن السَّماءِ طَهُوَرَ ألایَةَ",
+        "latin_text": "ală allh tăʾàalăى wă aăn°zăl°nàamăn als~ămaʾĭ ṭăhŭwără ʾalayăṫă"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "حضرت اِمام جعفر صادق رضی الله عنه دین نقلی دور",
+        "latin_text": "ḥżrt aĭmam ǰʾfr ṣadq rży allh ʾnh dyn nqly dwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "ای فال ایکاسی بو فال سنکا کلیب دور فرشته لار سنکا",
+        "latin_text": "ay fal aykasy bw fal snka klyb dwr fršth lar snka"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "یاری بریب دور آسمان ایشیک لاری سنکا آچیلیب",
+        "latin_text": "yary bryb dwr āsman ayšyk lary snka āčylyb"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "و نعمت قبوغوسی هم آچیلیب دولت عزّت اقبال سنکا یوز",
+        "latin_text": "w nʾmt qbwġwsy hm āčylyb dwlt ʾz~t aqbal snka ywz"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "کلتوروب عاقبت ایشلارینک یخشی لیقغه مبدّل بولور",
+        "latin_text": "kltwrwb ʾaqbt ayšlarynk yxšy lyqġh mbd~l bwlwr"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "فُل مال دنیالیق ایشلاری حاصل بولور دهقانچیلیق",
+        "latin_text": "fŭl mal dnyalyq ayšlary ḥaṣl bwlwr dhqančylyq"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "دین فائده بولور دشمن کا نصرت تاپارسین دعوانی",
+        "latin_text": "dyn faʾydh bwlwr dšmn ka nṣrt taparsyn dʾwany"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "15a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_015_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_015_r.Lanczos.800.65_15a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_015_r.Lanczos.800.65_15a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "آلورسین غایب حاظر بولوب خوش خبر بولور اوغری",
+        "latin_text": "ālwrsyn ġayb ḥaẓr bwlwb xwš xbr bwlwr awġry"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "الغان یوق بولغان ییتکان قاچقان تاپیلور اغریق",
+        "latin_text": "alġan ywq bwlġan yytkan qačqan tapylwr aġryq"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "دین بولسه دوشنبه کونی عزایم اوقوتغیل شفا تاپار",
+        "latin_text": "dyn bwlsh dwšnbh kwny ʾzaym awqwtġyl šfa tapar"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "انشأالله د ج د قَالَ الله تَعٰالَى اِنَّ الْمُنٰافَقِيْنَ",
+        "latin_text": "anšʾaallh d ǰ d qăală allh tăʾàalăى aĭnă~ al°mŭnàafăqĭẏ°nă"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "يَخٰادُعُوْنِ الله وَهُوَ خَادِ عَهُمْ ألایَةَ حضرت امام",
+        "latin_text": "ẏăxàadŭʾŭw°nĭ allh wăhŭwă xăadĭ ʾăhŭm° ʾalayăṫă ḥżrt amam"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "جعفر صادق رضی الله عنه دین نقل قیلیب دور ای فال",
+        "latin_text": "ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwr ay fal"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "ایکاسی بیلکیل آکاه و دانا بولغیل کیم بو فال سنکا کلیب دور",
+        "latin_text": "aykasy bylkyl ākah w dana bwlġyl kym bw fal snka klyb dwr"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "سن تولا فکر خیال لارنی قیلورسین هر ایشده صبر قیلیب",
+        "latin_text": "sn twla fkr xyal larny qylwrsyn hr ayšdh ṣbr qylyb"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "ثابت قدم بولغیل مرادینکنی خدادین تیلاب تَوکُّل",
+        "latin_text": "ṯabt qdm bwlġyl mradynkny xdadyn tylab tăwk~ŭl"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "قیلغیل درودی اوراد درود صلوات تسبیح تهلیل لارنی",
+        "latin_text": "qylġyl drwdy awrad drwd ṣlwat tsbyḥ thlyl larny"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "ترک قیلمای مشایخ لاردین استمداد طلب قیلغیل دشمن",
+        "latin_text": "trk qylmay mšayx lardyn astmdad ṭlb qylġyl dšmn"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "لارینک خوار بولورسین عزّت تاپارسین هرنه حاجت",
+        "latin_text": "larynk xwar bwlwrsyn ʾz~t taparsyn hrnh ḥaǰt"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "15b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_015_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_015_v.Lanczos.800.65_15b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_015_v.Lanczos.800.65_15b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "لارینک بولسه یتارسین اوزونک برله تعویز",
+        "latin_text": "larynk bwlsh ytarsyn awzwnk brlh tʾwyz"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "تُمار همراه قیلغیل نکاحغه ایکی کونکل لوک دور اولقی",
+        "latin_text": "tŭmar hmrah qylġyl nkaḥġh ayky kwnkl lwk dwr awlqy"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "نکاح خوب یراشلیق بولور انشأ الله ب د ا",
+        "latin_text": "nkaḥ xwb yrašlyq bwlwr anšʾa allh b d a"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "قَالَ الله تَعٰالَى لِلْمؤمِنَاتِ يَغْضَضََ مِنْ اَبْصَارِ",
+        "latin_text": "qăală allh tăʾàalăى lĭl°mwʾmĭnăatĭ ẏăġ°żăżăă mĭn° aăb°ṣăarĭ"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ِهُنْ وَيَحْفَظّنَ فَرُوجَهْنِ ألایَةَ حضرت اِمام جعفر",
+        "latin_text": "ĭhŭn° wăẏăḥ°făẓ~nă fărŭwǰăh°nĭ ʾalayăṫă ḥżrt aĭmam ǰʾfr"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "صادق رضی الله عنه دین نقل قیلیب دورلارکیم ای",
+        "latin_text": "ṣadq rży allh ʾnh dyn nql qylyb dwrlarkym ay"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "فال ایکاسی آکاه دانا بولغیل کیم بو فال سنکا کلیب دور",
+        "latin_text": "fal aykasy ākah dana bwlġyl kym bw fal snka klyb dwr"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "سنینک مشکل دیشوارلیق ایشلارینک بار کورونوب",
+        "latin_text": "snynk mškl dyšwarlyq ayšlarynk bar kwrwnwb"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "ترورسین خدای تعالی غه توکّل قیلیب حاجت لارینکنی",
+        "latin_text": "trwrsyn xday tʾaly ġh twk~l qylyb ḥaǰt larynkny"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "طلب قیلیب تور درودی شریف نی و ذکر تسبیح تهلیل",
+        "latin_text": "ṭlb qylyb twr drwdy šryf ny w z_kr tsbyḥ thlyl"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "لارنی ترک قیلمای کاهیل نماز بولمای عبادت بیلّه بولغیل",
+        "latin_text": "larny trk qylmay kahyl nmaz bwlmay ʾbadt byl~h bwlġyl"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "حضرت پردستکیرغه سغینیب نذره نیاز برله بولغیل",
+        "latin_text": "ḥżrt prdstkyrġh sġynyb nz_rh nyaz brlh bwlġyl"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "16a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_016_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_016_r.Lanczos.800.65_16a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_016_r.Lanczos.800.65_16a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "چراغ اوتکوروب ارواح پیر مشایخ لارغه ید بوی قیلغیل",
+        "latin_text": "čraġ awtkwrwb arwaḥ pyr mšayx larġh yd bwy qylġyl"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "هرنه نیّت هرنه مصلحت نی قیلیب ایردینک ترک قیلغیل",
+        "latin_text": "hrnh ny~t hrnh mṣlḥt ny qylyb ayrdynk trk qylġyl"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "اکر فکرلارینک نی تولا قیلیب بو ایشقه شروع قیلسانک",
+        "latin_text": "akr fkrlarynk ny twla qylyb bw ayšqh šrwʾ qylsank"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "پشیمان بولورسین اون یته کونغچه صبر خدادین مدد",
+        "latin_text": "pšyman bwlwrsyn awn yth kwnġčh ṣbr xdadyn mdd"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "تیلاکیل اوزونک برله تعویز همراه قیلغیل جمع ایشلارینک",
+        "latin_text": "tylakyl awzwnk brlh tʾwyz hmrah qylġyl ǰmʾ ayšlarynk"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "بر طرف بولوب خاطر جمع بولغایسین انشأالله تعالی ب د ج",
+        "latin_text": "br ṭrf bwlwb xaṭr ǰmʾ bwlġaysyn anšʾaallh tʾaly b d ǰ"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "قال الله تَعٰالَى يٰا يُحيىِ خَذْ هٰذَالْكِتٰابِ بِقَوْةِ ألایَةَ",
+        "latin_text": "qal allh tăʾàalăى ẏàa ẏŭḥẏىĭ xăz_° hàz_ăal°ḳĭtàabĭ bĭqăw°ṫĭ ʾalayăṫă"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "حضرت امام جعفر صادق رضی الله عنه دین نقل قیلیب دور",
+        "latin_text": "ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwr"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "لارکیم ای فال ایکاسی آکاه دانا بولغیل کیم بو فال سنکا کلیب دور",
+        "latin_text": "larkym ay fal aykasy ākah dana bwlġyl kym bw fal snka klyb dwr"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "اوشبو یل نینک ایچیدا همه ایشلارینک بر طرف بولوب غم قایغولار",
+        "latin_text": "awšbw yl nynk ayčyda hmh ayšlarynk br ṭrf bwlwb ġm qayġwlar"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "دین خلاص بولورسین دشمن لاردین قوتولوب شادلیق غه چیقارسین",
+        "latin_text": "dyn xlaṣ bwlwrsyn dšmn lardyn qwtwlwb šadlyq ġh čyqarsyn"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "هر قایداغ ایشلارینک حاجت لارینک بولسه مرادینکغه یتیب",
+        "latin_text": "hr qaydaġ ayšlarynk ḥaǰt larynk bwlsh mradynkġh ytyb"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "16b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_016_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_016_v.Lanczos.800.65_16b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_016_v.Lanczos.800.65_16b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "اولوغ دولت یوز کلتورکای تعویز همراه قیل یخشیلیق",
+        "latin_text": "awlwġ dwlt ywz kltwrkay tʾwyz hmrah qyl yxšylyq"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "کورورسین انشأالله ب ج ا قال الله تَعٰالَى يَوْمَ تَقْلَبُ",
+        "latin_text": "kwrwrsyn anšʾaallh b ǰ a qal allh tăʾàalăى ẏăw°mă tăq°lăbŭ"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "وَحُوْهَهُمْ فِي النّٰارِ ألایَةَ حضرت امام جعفر صادق رضی",
+        "latin_text": "wăḥŭw°hăhŭm° fĭẏ aln~àarĭ ʾalayăṫă ḥżrt amam ǰʾfr ṣadq rży"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "الله عنه دین نقل قیلیب دورکیم ای فال ایکاسی بو فال",
+        "latin_text": "allh ʾnh dyn nql qylyb dwrkym ay fal aykasy bw fal"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "سنکا کلیب دور بر نچه مکّار حیله گر دشمنلارینک سنکا",
+        "latin_text": "snka klyb dwr br nčh mk~ar ḥylh gr dšmnlarynk snka"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "توزاق قورماق نینک فکریکه توشماکده دور سنی خلوت",
+        "latin_text": "twzaq qwrmaq nynk fkrykh twšmakdh dwr sny xlwt"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "یرلارکه الیب باریب پند حیله گرلیک قیلور پادشاه",
+        "latin_text": "yrlarkh alyb baryb pnd ḥylh grlyk qylwr padšah"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "یا عملدارنینک قاشیغه بارماغیل کشی برله دعوالاشیب",
+        "latin_text": "ya ʾmldarnynk qašyġh barmaġyl kšy brlh dʾwalašyb"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "مکحمه) محکمه کا بارماغیل اوروش جدل نی قیلما بر نچه)",
+        "latin_text": "mkḥmh) mḥkmh ka barmaġyl awrwš ǰdl ny qylma br nčh)"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "کون صبر قیل طلب ده بولوب اوزونک برله تعویز",
+        "latin_text": "kwn ṣbr qyl ṭlb dh bwlwb awzwnk brlh tʾwyz"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "همراه قیلغیل حاجتینک غه یتارسین انشأالله تعالی",
+        "latin_text": "hmrah qylġyl ḥaǰtynk ġh ytarsyn anšʾaallh tʾaly"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "ج ج ج قَالَ الله تَعٰالَى جَنٰاتِ عَدَنْ يَدْخِلُوْنَهٰا",
+        "latin_text": "ǰ ǰ ǰ qăală allh tăʾàalăى ǰănàatĭ ʾădăn° ẏăd°xĭlŭw°năhàa"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "17a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_017_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_017_r.Lanczos.800.65_17a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_017_r.Lanczos.800.65_17a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ألایَةَ حضرت امام جعفر صادق رضی الله عنه دین",
+        "latin_text": "ʾalayăṫă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "نقل قیلیب دورلارکیم ای فال ایکاسی بو فال سنکا کلیب",
+        "latin_text": "nql qylyb dwrlarkym ay fal aykasy bw fal snka klyb"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "دور حضرت محمَّد مصطفی صلی الله علیه وسلم نینک فالی دور",
+        "latin_text": "dwr ḥżrt mḥm~ăd mṣṭfy ṣly allh ʾlyh wslm nynk faly dwr"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "سفر نکاح الماق ساتماق سوداکرلیکدین دهقانچیلیق",
+        "latin_text": "sfr nkaḥ almaq satmaq swdakrlykdyn dhqančylyq"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "دین شریکدین فائده بولور دشمن غه دعواغه غالب کلور",
+        "latin_text": "dyn šrykdyn faʾydh bwlwr dšmn ġh dʾwaġh ġalb klwr"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "سین غائیب حاظر بولور اوغری الغان ییتکان قاچقان",
+        "latin_text": "syn ġaʾyyb ḥaẓr bwlwr awġry alġan yytkan qačqan"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "یوق بولغان تاپیلور درودی شریف نی تولا اوقوغیل",
+        "latin_text": "ywq bwlġan tapylwr drwdy šryf ny twla awqwġyl"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "طلبده بول تعویز همراه قیلغیل مرادینکغه یتارسین اغریق",
+        "latin_text": "ṭlbdh bwl tʾwyz hmrah qylġyl mradynkġh ytarsyn aġryq"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "بی خطر دور انشأالله ج ج ا قَالَ الله تَعٰالَى اِنَّ",
+        "latin_text": "by xṭr dwr anšʾaallh ǰ ǰ a qăală allh tăʾàalăى aĭn~ă"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "لعْنَةَ الله عَلَی الْظٰالَمِیْنَ ألایَةَ حضرت امام جعفر",
+        "latin_text": "lʾ°năṫă allh ʾălăy al°ẓàalămĭy°nă ʾalayăṫă ḥżrt amam ǰʾfr"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "صادق رضی الله عنه دین نقل قیلیب دورکیم ای فال ایکاسی",
+        "latin_text": "ṣadq rży allh ʾnh dyn nql qylyb dwrkym ay fal aykasy"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "بو فال سنکا کلیب دور بر نچه کونچه صبر قیل بسته لیک",
+        "latin_text": "bw fal snka klyb dwr br nčh kwnčh ṣbr qyl bsth lyk"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "17b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_017_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_017_v.Lanczos.800.65_17b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_017_v.Lanczos.800.65_17b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "توشکان ایشلارینک کشاده بولور و هرنه مصلحت",
+        "latin_text": "twškan ayšlarynk kšadh bwlwr w hrnh mṣlḥt"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "و نیت لارینک نی ترک قیلغیل شتاب قیلسانک هلاک",
+        "latin_text": "w nyt larynk ny trk qylġyl štab qylsank hlak"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "بولورسین دشمن غالب دور ختم هفته خواجه پای",
+        "latin_text": "bwlwrsyn dšmn ġalb dwr xtm hfth xwaǰh pay"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "بزروک اوقوتوب صلوات درودی شریف اوقوتوب",
+        "latin_text": "bzrwk awqwtwb ṣlwat drwdy šryf awqwtwb"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "طلبده بولغیل اولوغ الدیغه بارماغیل تعویز همراه قیل",
+        "latin_text": "ṭlbdh bwlġyl awlwġ aldyġh barmaġyl tʾwyz hmrah qyl"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "یخشیلیقغه اورؤلور انشأالله ج ج ب قَالَ الله",
+        "latin_text": "yxšylyqġh awrwʾlwr anšʾaallh ǰ ǰ b qăală allh"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "تَعٰالَى وَ لُوْنِشٰاءِ لٰا تیْنٰا کُلِّ نَفْسِ هَدیِْهٰا اِلَی ألایَةَ",
+        "latin_text": "tăʾàalăى wă lŭw°nĭšàaʾĭ làa ty°nàa kŭl~ĭ năf°sĭ hădyĭ°hàa aĭlăy ʾalayăṫă"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "حضرت امام جعفر صادق رضی الله عنه دین نقل دور",
+        "latin_text": "ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nql dwr"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "کیم ای فال ایکاسی بو فال سنکا کلیب دور قموغ تورلوک",
+        "latin_text": "kym ay fal aykasy bw fal snka klyb dwr qmwġ twrlwk"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "غم قایغودین دشمن لاردین قوتولورسین نصرت سنکا یار",
+        "latin_text": "ġm qayġwdyn dšmn lardyn qwtwlwrsyn nṣrt snka yar"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "دور جمع حاجت لارینک اونکغه کلور مرادینکغه یتارسین",
+        "latin_text": "dwr ǰmʾ ḥaǰt larynk awnkġh klwr mradynkġh ytarsyn"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "سفرکه نکاحغه شریکچیلیکغه سوداگرلیکغه آلماق ساتماق",
+        "latin_text": "sfrkh nkaḥġh šrykčylykġh swdagrlykġh ālmaq satmaq"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "18a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_018_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_018_r.Lanczos.800.65_18a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_018_r.Lanczos.800.65_18a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "هر طریقه لیک ایشقه صبر صبر قیلغیل مصلحت و هرنه نیت نی",
+        "latin_text": "hr ṭryqh lyk ayšqh ṣbr ṣbr qylġyl mṣlḥt w hrnh nyt ny"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "ترک قیلیب طلب ده بولوب تعویز همراه قیلغیل انشأ",
+        "latin_text": "trk qylyb ṭlb dh bwlwb tʾwyz hmrah qylġyl anšʾa"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "الله مرادینکغه یتارسین ج ج د قَالَ الله تَعٰالَى",
+        "latin_text": "allh mradynkġh ytarsyn ǰ ǰ d qăală allh tăʾàalăى"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "وَمِنْ يَعْمَلَ مِثْقٰالَ ذَرَّةِ خَيْرًا يَرَهَ وَمَنْ يَعْمَلَ مِثْقٰالَ",
+        "latin_text": "wămĭn° ẏăʾ°mălă mĭṯ°qàală z_ără~ṫĭ xăẏ°râa ẏărăhă wămăn° ẏăʾ°mălă mĭṯ°qàală"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ذَرَّةَ شَرًّا يَرِ ألایَةَ حضرت امام جعفر صادق رضی الله عنه",
+        "latin_text": "z_ără~ṫă šărâ~a ẏărĭ ʾalayăṫă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "دین انداغ نقل قیلیب دور ای فال ایکاسی بو فال سنکا",
+        "latin_text": "dyn andaġ nql qylyb dwr ay fal aykasy bw fal snka"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "کلیب دور بشارت دور بر خیرات ایشقه قدم قویوب سین",
+        "latin_text": "klyb dwr bšart dwr br xyrat ayšqh qdm qwywb syn"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "همه ایشلارینک مبارک بولغوسی دور بو نیت و مصلحت نی",
+        "latin_text": "hmh ayšlarynk mbark bwlġwsy dwr bw nyt w mṣlḥt ny"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "بوزماغیل هر جایدا بولسانک قناعت قیلغیل الماق ساتماق",
+        "latin_text": "bwzmaġyl hr ǰayda bwlsank qnaʾt qylġyl almaq satmaq"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "شریکت نکاح غه خوب دور سفر مبارک دور دشمن که غالب کلورسن",
+        "latin_text": "šrykt nkaḥ ġh xwb dwr sfr mbark dwr dšmn kh ġalb klwrsn"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "غائب یوق بولغان ییتکان قاچقان اوغری آلغان تاپیلور اغریق",
+        "latin_text": "ġaʾyb ywq bwlġan yytkan qačqan awġry ālġan tapylwr aġryq"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "شفا تاپار طلب ده بولسانک مرادینکغه یتارسین انشأالله",
+        "latin_text": "šfa tapar ṭlb dh bwlsank mradynkġh ytarsyn anšʾaallh"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "18b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_018_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_018_v.Lanczos.800.65_18b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_018_v.Lanczos.800.65_18b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ج ب ب قَالَ الله تَعٰالَى وَلُوْ اِنَّ فِي ألاَرْضَ شَجْرَةَ",
+        "latin_text": "ǰ b b qăală allh tăʾàalăى wălŭw° aĭnă~ fĭẏ ʾalaăr°żă šăǰ°răṫă"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "ألایَةَ حضرت امام جعفر صادق رضی الله عنه دین",
+        "latin_text": "ʾalayăṫă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "نقل قیلیب دورلارکیم ای فال ایکاسی بو فال سنکا کلیب",
+        "latin_text": "nql qylyb dwrlarkym ay fal aykasy bw fal snka klyb"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "دور بی بهوده غم قایغولارنی تولا قیلور ایکانسین هیچ",
+        "latin_text": "dwr by bhwdh ġm qayġwlarny twla qylwr aykansyn hyč"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "غم قایغو قیلماغیل اوزونکنی پردستکرغه تاپشوروب",
+        "latin_text": "ġm qayġw qylmaġyl awzwnkny prdstkrġh tapšwrwb"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "خداغه توکّل قیلغیل هر قایداغ یمان ایشلارینک یخشی لیق",
+        "latin_text": "xdaġh twk~l qylġyl hr qaydaġ yman ayšlarynk yxšy lyq"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "غه مبدّل بولور خدای تعالی سنکا تولا مال فُل برور قیز",
+        "latin_text": "ġh mbd~l bwlwr xday tʾaly snka twla mal fŭl brwr qyz"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "اوغول فرزند برور اوغری آلغان یوق بولغان ییتکان",
+        "latin_text": "awġwl frznd brwr awġry ālġan ywq bwlġan yytkan"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "قاچقان نینک خبری بولور هر ایشقه قدم قویسانک مبارک",
+        "latin_text": "qačqan nynk xbry bwlwr hr ayšqh qdm qwysank mbark"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "دور نیت لارینک مصلحت لارینک یخشی دور انشأالله",
+        "latin_text": "dwr nyt larynk mṣlḥt larynk yxšy dwr anšʾaallh"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "ج د د قَالَ الله تَعٰالَى اِنَّ اللَّهِ يَغْفَرٰانِ يَشْرَکُ",
+        "latin_text": "ǰ d d qăală allh tăʾàalăى aĭnă~ allă~hĭ ẏăġ°făràanĭ ẏăš°răkŭ"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "بَهِ و يَغْفَرَ ألاَیَةَ حضرت امام جعفر صادق رضی الله",
+        "latin_text": "băhĭ w ẏăġ°fără ʾalaăyăṫă ḥżrt amam ǰʾfr ṣadq rży allh"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "19a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_019_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_019_r.Lanczos.800.65_19a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_019_r.Lanczos.800.65_19a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "دین نقلی قیلیب دورلارکیم ای فال ایکاسی بو فال سنکا کلیب",
+        "latin_text": "dyn nqly qylyb dwrlarkym ay fal aykasy bw fal snka klyb"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "دور بر کمرسه بیلّه دوست بولوب سنکا یاری بولوب آلماق",
+        "latin_text": "dwr br kmrsh byl~h dwst bwlwb snka yary bwlwb ālmaq"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "ساتماق سوداکرلیک دین شریک دین سفردین نکاح",
+        "latin_text": "satmaq swdakrlyk dyn šryk dyn sfrdyn nkaḥ"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "دین تولا فائده بولور دشمن کا غالب کلورسین یوق بولغان",
+        "latin_text": "dyn twla faʾydh bwlwr dšmn ka ġalb klwrsyn ywq bwlġan"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "اوغری الغان ییتکان قاچقان تاپیلور غایب حاظر بولور",
+        "latin_text": "awġry alġan yytkan qačqan tapylwr ġayb ḥaẓr bwlwr"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "بلآ و قضادین اِمین بولورسین قیلغان یخشی عمل لارینک",
+        "latin_text": "blā w qżadyn aĭmyn bwlwrsyn qylġan yxšy ʾml larynk"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "خداغه مقبول بولغاندور انشأالله ب د د قَالَ اللهِ",
+        "latin_text": "xdaġh mqbwl bwlġandwr anšʾaallh b d d qăală allhĭ"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "تَعٰالَى اِنَّ اللهِ کٰانَ عَلِیماً حَکِیْماً ای فال ایکاسی بو",
+        "latin_text": "tăʾàalăى aĭn~ă allhĭ kàană ʾălĭymaâ ḥăkĭy°maâ ay fal aykasy bw"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "فال سنکا کلیب دور هرنه نیت لارینک بولسه جمیع غم قایغو",
+        "latin_text": "fal snka klyb dwr hrnh nyt larynk bwlsh ǰmyʾ ġm qayġw"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "لاردین خلاص بولورسین دشمن لارینکغه نصرت تاپارسین حج سفر",
+        "latin_text": "lardyn xlaṣ bwlwrsyn dšmn larynkġh nṣrt taparsyn ḥǰ sfr"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "مبارک بولغای سوداکرلیکدین فائده کورورسین دهقانچیلیق دین",
+        "latin_text": "mbark bwlġay swdakrlykdyn faʾydh kwrwrsyn dhqančylyq dyn"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "نفع بار نکاح خوب دور شریکت دین فائده کورورسین علم دین",
+        "latin_text": "nfʾ bar nkaḥ xwb dwr šrykt dyn faʾydh kwrwrsyn ʾlm dyn"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "19b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_019_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_019_v.Lanczos.800.65_19b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_019_v.Lanczos.800.65_19b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "تحصیل لیک بولورسین موندین سونکره هر قایداغ مرادینک",
+        "latin_text": "tḥṣyl lyk bwlwrsyn mwndyn swnkrh hr qaydaġ mradynk"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "بولسه یتارسین انشأالله تعالی ج ا د قَالَ اللهِ تَعٰالَى",
+        "latin_text": "bwlsh ytarsyn anšʾaallh tʾaly ǰ a d qăală allhĭ tăʾàalăى"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "سُبْحٰانَ الَّذِیْ اَسْرِى بِعَبْدِهُ لَيْلًا مِنَ ألْمَسْجِدَ ألحَرام ألآیَةَ",
+        "latin_text": "sŭb°ḥàană ală~z_ĭy° aăs°rĭى bĭʾăb°dĭhŭ lăẏ°lâa mĭnă ʾal°măs°ǰĭdă ʾalḥăram ʾalāyăṫă"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "حضرت امام جعفر صادق رضی الله عنه دین نقل قیلیب دور",
+        "latin_text": "ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "لارکیم ای فال ایکاسی بو فال سنکا کلیب دور سنینک دشمن",
+        "latin_text": "larkym ay fal aykasy bw fal snka klyb dwr snynk dšmn"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "لارینک تولادور سنکا کورونماس همیشه سنینک قصدینکده",
+        "latin_text": "larynk twladwr snka kwrwnmas hmyšh snynk qṣdynkdh"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "دور سنکا حسد قیلور سنکا خدای تعالی بخت دولت اقبال",
+        "latin_text": "dwr snka ḥsd qylwr snka xday tʾaly bxt dwlt aqbal"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "سعادت ایشیک نی آچار سنینک رزقینک بیکار گمان قیلما",
+        "latin_text": "sʾadt ayšyk ny āčar snynk rzqynk bykar gman qylma"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "غان جایلارده دریانینک تکیده بولور دشمن کا نصرت تاپارسین",
+        "latin_text": "ġan ǰaylardh dryanynk tkydh bwlwr dšmn ka nṣrt taparsyn"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "دعوانی آلورسین اولوغلاردین سفردین نکاحدین شریکت",
+        "latin_text": "dʾwany ālwrsyn awlwġlardyn sfrdyn nkaḥdyn šrykt"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "دین فائده کورورسین دهقانچیلیق دین رزقینک طالع",
+        "latin_text": "dyn faʾydh kwrwrsyn dhqančylyq dyn rzqynk ṭalʾ"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "لارینک آچیلور اوغری آلغان یوق بولغان ییتکان قاچقان",
+        "latin_text": "larynk āčylwr awġry ālġan ywq bwlġan yytkan qačqan"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "20a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_020_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_020_r.Lanczos.800.65_20a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_020_r.Lanczos.800.65_20a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "غایب کلور انشأالله ج ا ج قَالَ اللهِ تَعٰالَى وَكُنْتُمْ",
+        "latin_text": "ġayb klwr anšʾaallh ǰ a ǰ qăală allhĭ tăʾàalăى wăḳŭn°tŭm°"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "شفاءِ حَفْرَةِ مِنَ النَّارِ فَأَنَقْذَكُمْ مِنْهٰا ألاَیَةَ حضرت",
+        "latin_text": "šfaʾĭ ḥăf°răṫĭ mĭnă alnă~arĭ făʾaănăq°z_ăḳŭm° mĭn°hàa ʾalaăyăṫă ḥżrt"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "امام جعفر صادق رضی الله عنه دین نقل قیلیب دور ای",
+        "latin_text": "amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwr ay"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "فال ایکاسی بو فال سنکا کلیب دور حضرت یوسف علیه السّلام",
+        "latin_text": "fal aykasy bw fal snka klyb dwr ḥżrt ywsf ʾlyh als~lam"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "نینک فالی دور هرنه نیت قیلیب ایردینک صبر قیل",
+        "latin_text": "nynk faly dwr hrnh nyt qylyb ayrdynk ṣbr qyl"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "غم قایغودین قرانکغولوقدین خلاص بولوب سنکا بر",
+        "latin_text": "ġm qayġwdyn qrankġwlwqdyn xlaṣ bwlwb snka br"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "شادمان لیق یوز کلتورکای اولوغ دولت که یتارسین",
+        "latin_text": "šadman lyq ywz kltwrkay awlwġ dwlt kh ytarsyn"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "سفردین دهقانچیلیق دین نکاحدین شریک دین فائده",
+        "latin_text": "sfrdyn dhqančylyq dyn nkaḥdyn šryk dyn faʾydh"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "بولور مبارک دور دشمن لارینک دوست بولوب سنکا اطاعت",
+        "latin_text": "bwlwr mbark dwr dšmn larynk dwst bwlwb snka aṭaʾt"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "قیلور سودا آلماق ساتماق دین نفع کورورسین غایب",
+        "latin_text": "qylwr swda ālmaq satmaq dyn nfʾ kwrwrsyn ġayb"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "حاظر بولور اوغری آلغان ییتکان قاچقان تاپالور خیانت",
+        "latin_text": "ḥaẓr bwlwr awġry ālġan yytkan qačqan tapalwr xyant"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "قیلغوچی لار اشکارا بولور سرّ پوشیده بولور خدای تعالی",
+        "latin_text": "qylġwčy lar aškara bwlwr sr~ pwšydh bwlwr xday tʾaly"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "20b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_020_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_020_v.Lanczos.800.65_20b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_020_v.Lanczos.800.65_20b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "اوغول قیز فرزنده سی تولا بولور اولوغلاردین التفات",
+        "latin_text": "awġwl qyz frzndh sy twla bwlwr awlwġlardyn altfat"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "کورورسین امیدلارینکغه یتارسین اغریق شفا تاپار انشأالله",
+        "latin_text": "kwrwrsyn amydlarynkġh ytarsyn aġryq šfa tapar anšʾaallh"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "ج ب ج قَالَ اللهِ تَعٰالَى كَذَالِكَ الُنَصْرِفَ عَنْهُ السَّوٰاءِ",
+        "latin_text": "ǰ b ǰ qăală allhĭ tăʾàalăى ḳăz_ăalĭḳă alŭnăṣ°rĭfă ʾăn°hŭ als~ăwàaʾĭ"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "وَالْفَحْشٰاءِ ألاَیَةَ حضرت امام جعفر صادق رضی الله عنه",
+        "latin_text": "wăal°făḥ°šàaʾĭ ʾalaăyăṫă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "",
+        "latin_text": "دین نقل قیلیب دورلارکیم ای فال ایکاسی بو فال سنکا کلیب"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "دور سنکا دولت یار بولوب دور کسل اغریق لارینکغه دوشنبه",
+        "latin_text": "dwr snka dwlt yar bwlwb dwr ksl aġryq larynkġh dwšnbh"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "کونی عزایم اوقوتغیل و تعویز همراه قیلغیل ردنام شریف",
+        "latin_text": "kwny ʾzaym awqwtġyl w tʾwyz hmrah qylġyl rdnam šryf"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "همراه قیلغیل طلب ده بول عبادت نی نمازنی ترک قیلمای خداغه",
+        "latin_text": "hmrah qylġyl ṭlb dh bwl ʾbadt ny nmazny trk qylmay xdaġh"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "توکّل قیل دشمن لارینک مقهور بولغوسی قموغ تورلوک بلآ",
+        "latin_text": "twk~l qyl dšmn larynk mqhwr bwlġwsy qmwġ twrlwk blā"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "و قضادین و غم قایغودین خلاص بولورسین اغریق شفا تاپار",
+        "latin_text": "w qżadyn w ġm qayġwdyn xlaṣ bwlwrsyn aġryq šfa tapar"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "اوغری آلغان ییتکان قاچقان یوق بولغان تاپیلور ایشینک",
+        "latin_text": "awġry ālġan yytkan qačqan ywq bwlġan tapylwr ayšynk"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "پوتار انشأالله تعالی ج د ج قَالَ اللهِ تَعٰالَى الْمٰالُ وَالْبَنُونَ",
+        "latin_text": "pwtar anšʾaallh tʾaly ǰ d ǰ qăală allhĭ tăʾàalăى al°màalŭ wăal°bănŭwnă"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "21a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_021_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_021_r.Lanczos.800.65_21a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_021_r.Lanczos.800.65_21a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "زَِيْنَةِ ألحَيْوَةِ الدَّنْيٰا ألاَیَةَ حضرت امام جعفر صادق",
+        "latin_text": "zĭăẏ°năṫĭ ʾalḥăẏ°wăṫĭ ald~ăn°ẏàa ʾalaăyăṫă ḥżrt amam ǰʾfr ṣadq"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین نقل قیلیب دورلارکیم ای فال ایکاسی بو فال",
+        "latin_text": "rży allh ʾnh dyn nql qylyb dwrlarkym ay fal aykasy bw fal"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "سنکا کلیب دور تولا مبارک دور هرنه ایشقه قدم قویسه هرنه",
+        "latin_text": "snka klyb dwr twla mbark dwr hrnh ayšqh qdm qwysh hrnh"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "نیّت لارینک بولسه مبارک دور امیدلارینکغه یتارسین مشکل",
+        "latin_text": "ny~t larynk bwlsh mbark dwr amydlarynkġh ytarsyn mškl"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ایشلارینک حاصل بولغوسی حاجت لارینک غه یتارسین غم قایغو",
+        "latin_text": "ayšlarynk ḥaṣl bwlġwsy ḥaǰt larynk ġh ytarsyn ġm qayġw"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "دین دوشمن لاردین خلاص بولوب اولوغ دولت که یتیب عاقبت حج",
+        "latin_text": "dyn dwšmn lardyn xlaṣ bwlwb awlwġ dwlt kh ytyb ʾaqbt ḥǰ"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "ثوابی نی تاپارسین ایشلارینک پوتار اوغری الغان ییتکان قاچقان",
+        "latin_text": "ṯwaby ny taparsyn ayšlarynk pwtar awġry alġan yytkan qačqan"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "یوق بولغان تاپیلور غائب کلور خوش خبر بولور اغریق غه سبب",
+        "latin_text": "ywq bwlġan tapylwr ġaʾyb klwr xwš xbr bwlwr aġryq ġh sbb"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "قیلماق کراک انشأالله شفا تاپارلار ج د ب قَالَ اللهِ تَعٰالَى",
+        "latin_text": "qylmaq krak anšʾaallh šfa taparlar ǰ d b qăală allhĭ tăʾàalăى"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "اِنَّ اللهِ مَعَ الْمُحْسَنِیْنَ ألاَیَةَ حضرت امام جعفر صادق رضی الله",
+        "latin_text": "aĭn~ă allhĭ măʾă al°mŭḥ°sănĭy°nă ʾalaăyăṫă ḥżrt amam ǰʾfr ṣadq rży allh"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "",
+        "latin_text": "عنه دین نقل قیلیب دورلارکیم ای فال ایکاسی بو فال سنکا کلیب دور"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "سنکا بر سفر واقع بولغودیک دور اول سفردین تولا فائده کورورسین",
+        "latin_text": "snka br sfr waqʾ bwlġwdyk dwr awl sfrdyn twla faʾydh kwrwrsyn"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "21b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_021_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_021_v.Lanczos.800.65_21b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_021_v.Lanczos.800.65_21b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "الماق ساتماقدین نفع کورورسین سوداکرلیک دین شریکدین یخشی",
+        "latin_text": "almaq satmaqdyn nfʾ kwrwrsyn swdakrlyk dyn šrykdyn yxšy"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "دور نکاح مبارک غایب لارینک کلور یوق بولغان اوغری الغان",
+        "latin_text": "dwr nkaḥ mbark ġayb larynk klwr ywq bwlġan awġry alġan"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "ییتکان قاچقان تاپیلور نعمت لار آرتار رزقینک تولا بولور اغریق",
+        "latin_text": "yytkan qačqan tapylwr nʾmt lar ārtar rzqynk twla bwlwr aġryq"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "شفا تاپار مرادینکغه یتیب امیدلارینک حاصل بولور انشاء الله",
+        "latin_text": "šfa tapar mradynkġh ytyb amydlarynk ḥaṣl bwlwr anšaʾ allh"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ج ب د قَالَ اللهِ تَعٰالَى وَ اِنَّ يُوْنَسِ الْمِنَ الْمُرْسَلِيْنَ ألاَیَةَ",
+        "latin_text": "ǰ b d qăală allhĭ tăʾàalăى wă aĭnă~ ẏŭw°năsĭ al°mĭnă al°mŭr°sălĭẏ°nă ʾalaăyăṫă"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "ای فال ایکاسی بو فال سنکا کلیب دور حضرت یونس علیه السّلام نینک",
+        "latin_text": "ay fal aykasy bw fal snka klyb dwr ḥżrt ywns ʾlyh als~lam nynk"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "فالی دور سنکا بر اولوغ دولت کلور بخت اقبال لارینک اچیلور بند بسته",
+        "latin_text": "faly dwr snka br awlwġ dwlt klwr bxt aqbal larynk ačylwr bnd bsth"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "لیک ایشلارینک کشاده بولغوسی دور هرنه نیت و هرنه مصلحت لارینک",
+        "latin_text": "lyk ayšlarynk kšadh bwlġwsy dwr hrnh nyt w hrnh mṣlḥt larynk"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "بولسه یخشی دور سفر مبارک نکاح خوب دور شریک آلماق ساتماق دین",
+        "latin_text": "bwlsh yxšy dwr sfr mbark nkaḥ xwb dwr šryk ālmaq satmaq dyn"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "سوداکرلیکدین فائده آلورسین دشمن لارینک هلاک بولور بر نچه",
+        "latin_text": "swdakrlykdyn faʾydh ālwrsyn dšmn larynk hlak bwlwr br nčh"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "کون صبر قیل مرادینکغه یتارسین ایش لارینک پوتار اوغری الغان",
+        "latin_text": "kwn ṣbr qyl mradynkġh ytarsyn ayš larynk pwtar awġry alġan"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "یوق بولغان ییتکان قاچقان تاپیلور غم قایغودین خلاص بولورسین",
+        "latin_text": "ywq bwlġan yytkan qačqan tapylwr ġm qayġwdyn xlaṣ bwlwrsyn"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "22a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_022_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_022_r.Lanczos.800.65_22a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_022_r.Lanczos.800.65_22a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "پادشاه امیرالاردین التفات بولور کُلَّی مرادینکغه یتارسین انشأالله",
+        "latin_text": "padšah amyralardyn altfat bwlwr kŭl~ăy mradynkġh ytarsyn anšʾaallh"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "ج ب ا قَالَ الله تَعٰالَى اِنَّ هَٰوَلَا تَحْبُونَ الُعٰاجَلْةَ ألاَیَةَ حضرت",
+        "latin_text": "ǰ b a qăală allh tăʾàalăى aĭnă~ hăàwălăa tăḥ°bŭwnă alŭʾàaǰăl°ṫă ʾalaăyăṫă ḥżrt"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "امام جعفر صادق رضی الله عنه دین نقل قیلیب دورلارکیم ای فال ایکاسی",
+        "latin_text": "amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwrlarkym ay fal aykasy"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "بو فال سنکا کلیب دور دولت یوزلانیب اقبال سعادت تاپیلور",
+        "latin_text": "bw fal snka klyb dwr dwlt ywzlanyb aqbal sʾadt tapylwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "بسته لیک توشکان ایشلارینک کشاده بولور اولوغلاردین",
+        "latin_text": "bsth lyk twškan ayšlarynk kšadh bwlwr awlwġlardyn"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "التفات کورورسین دشمن لارینک مقهور بولور بر نچه کمرسه لار",
+        "latin_text": "altfat kwrwrsyn dšmn larynk mqhwr bwlwr br nčh kmrsh lar"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "سنکا حسد قیلیب سنی اوراغه تاشلاماقغه قصد قیلیب توروب دور",
+        "latin_text": "snka ḥsd qylyb sny awraġh tašlamaqġh qṣd qylyb twrwb dwr"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "بو فال سنکا کیلیب دور حضرت صالح علیه السّلام نینک فالی دور کشی کا",
+        "latin_text": "bw fal snka kylyb dwr ḥżrt ṣalḥ ʾlyh als~lam nynk faly dwr kšy ka"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "یخشی لیق قیلور بولسانک انینک دین وفا کورماس سین رزق",
+        "latin_text": "yxšy lyq qylwr bwlsank anynk dyn wfa kwrmas syn rzq"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "روزانه تولا بولوب گمان قیلماغان جایلاردین فُل مال کلور دولت",
+        "latin_text": "rwzanh twla bwlwb gman qylmaġan ǰaylardyn fŭl mal klwr dwlt"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "لارینک زیاده بولوب اوزون عمری کوروب قیز اوغول فرزند",
+        "latin_text": "larynk zyadh bwlwb awzwn ʾmry kwrwb qyz awġwl frznd"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "لارینک بولغای اغریق شفا تاپار مرادینکغه یتارسین انشأالله",
+        "latin_text": "larynk bwlġay aġryq šfa tapar mradynkġh ytarsyn anšʾaallh"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "22b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_022_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_022_v.Lanczos.800.65_22b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_022_v.Lanczos.800.65_22b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ج د ا قَالَ اللهِ تَعٰالَى اِنَّ الَّذِيْنَ يَخْشُوْنَ رَبَّهُمْ بِالْغَيْبِ لَهُمُ",
+        "latin_text": "ǰ d a qăală allhĭ tăʾàalăى aĭnă~ ală~z_ĭẏ°nă ẏăx°šŭw°nă răbă~hŭm° bĭal°ġăẏ°bĭ lăhŭmŭ"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "الایة حضرت امام جعفر صادق رضی الله عنه دین نقل قیلیب دور",
+        "latin_text": "alayṫ ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwr"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "لارکیم ای فال ایکاسی بو فال سنکا کلیب دور اوشبو یل نینک ایچیدا",
+        "latin_text": "larkym ay fal aykasy bw fal snka klyb dwr awšbw yl nynk ayčyda"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "همه ایشلارینک یخشی بولغوسی نا مبارک ایشلارینک مبارک بولور",
+        "latin_text": "hmh ayšlarynk yxšy bwlġwsy na mbark ayšlarynk mbark bwlwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "یمان دشمن لارینک شریدین خدا امین قیلور هر قایداغ حاجت",
+        "latin_text": "yman dšmn larynk šrydyn xda amyn qylwr hr qaydaġ ḥaǰt"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "امیدلارینک بولسه خداغه توکّل قیلیب طلب ده بولغیل مرادینک غه",
+        "latin_text": "amydlarynk bwlsh xdaġh twk~l qylyb ṭlb dh bwlġyl mradynk ġh"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "یتیب نصرت تاپارسین انشأالله د د د قَالَ الله تَعٰالى دَرِ اللهِ",
+        "latin_text": "ytyb nṣrt taparsyn anšʾaallh d d d qăală allh tăʾàalى dărĭ allhĭ"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "عَلَیْهِم والُکٰافَرِیْنَ اَمْثٰالِهٰا ألاَیَةَ حضرت امام جعفر صادق",
+        "latin_text": "ʾălăy°hĭm walŭkàafărĭy°nă aăm°ṯàalĭhàa ʾalaăyăṫă ḥżrt amam ǰʾfr ṣadq"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین نقل قیلیب دورلارکیم ای فال ایکاسی بو فال",
+        "latin_text": "rży allh ʾnh dyn nql qylyb dwrlarkym ay fal aykasy bw fal"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "سنکا کلیب دور حضرت خواجه علیه الصلوات و السّلام نینک فالی دور",
+        "latin_text": "snka klyb dwr ḥżrt xwaǰh ʾlyh alṣlwat w als~lam nynk faly dwr"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "ایکی دنیادا سنی خدای تعالی بخت دولت اقبال سعادت لیک",
+        "latin_text": "ayky dnyada sny xday tʾaly bxt dwlt aqbal sʾadt lyk"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "قیلیب هرنه مصلحت و نیت قیلسانک مبارک دور قموغ تورلوک",
+        "latin_text": "qylyb hrnh mṣlḥt w nyt qylsank mbark dwr qmwġ twrlwk"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "23a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_023_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_023_r.Lanczos.800.65_23a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_023_r.Lanczos.800.65_23a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "مراد مقصدلارینک بولسه حاجت لارینک روا بولور مشکل ایش",
+        "latin_text": "mrad mqṣdlarynk bwlsh ḥaǰt larynk rwa bwlwr mškl ayš"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "لارینک آسان بولوب امیدلارینکغه یتارسین سفر سوداگرلیک",
+        "latin_text": "larynk āsan bwlwb amydlarynkġh ytarsyn sfr swdagrlyk"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "شریکت نکاح مبارک اغریق شفا تاپار اوغری آلغان",
+        "latin_text": "šrykt nkaḥ mbark aġryq šfa tapar awġry ālġan"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "ییتکان قاچقان یوق بولغان تاپیلور غایب کلور یراق دین",
+        "latin_text": "yytkan qačqan ywq bwlġan tapylwr ġayb klwr yraq dyn"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "خوش خبر کلیب سیونورسین قیلغان یخشی عمل لارینک",
+        "latin_text": "xwš xbr klyb sywnwrsyn qylġan yxšy ʾml larynk"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "خدای تعالی نینک الدیدا مقبول بولغان حج ثوابی یاکه حج",
+        "latin_text": "xday tʾaly nynk aldyda mqbwl bwlġan ḥǰ ṯwaby yakh ḥǰ"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "قیلورسین کسب کار دهقانچیلیق دین فائده بولور منصب ایشی",
+        "latin_text": "qylwrsyn ksb kar dhqančylyq dyn faʾydh bwlwr mnṣb ayšy"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "قولونکغه کلور چهار پایدین فائده آلورسین اوزونک برله",
+        "latin_text": "qwlwnkġh klwr čhar paydyn faʾydh ālwrsyn awzwnk brlh"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "تعویز همراه قیلیب صلوات درود شریف ذکر تسبیح تهلیل",
+        "latin_text": "tʾwyz hmrah qylyb ṣlwat drwd šryf z_kr tsbyḥ thlyl"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "لارینکنی ورده اورادلارنی ترک قیلماغیل مرادینک غه",
+        "latin_text": "larynkny wrdh awradlarny trk qylmaġyl mradynk ġh"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "یتارسین انشأالله د د ا قَالَ الله تَعٰالَى وَالْهُکُمْ اِلٰهَ وٰاحَدَ",
+        "latin_text": "ytarsyn anšʾaallh d d a qăală allh tăʾàalăى wăal°hŭkŭm° aĭlàhă wàaḥădă"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "لٰا اِلٰهَ اِلّٰا هُوْالْرحَّمنِ الرَّحیمُ ألاَیَةَ دلیل دور حضرت",
+        "latin_text": "làa aĭlàhă aĭl~àa hŭw°al°rḥ~ămnĭ alr~ăḥymŭ ʾalaăyăṫă dlyl dwr ḥżrt"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "امام جعفر صادق رضی الله عنه دین نقل قیلیب دورلارکیم",
+        "latin_text": "amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwrlarkym"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "ای فال ایکاسی بیلکیل بو فال سنکا کلیب دور خدای تعالی",
+        "latin_text": "ay fal aykasy bylkyl bw fal snka klyb dwr xday tʾaly"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "23b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_023_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_023_v.Lanczos.800.65_23b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_023_v.Lanczos.800.65_23b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ایکی دنیا سعادت نی برکای کُلی مرادینکنی خدادین تیلاکیل",
+        "latin_text": "ayky dnya sʾadt ny brkay kŭly mradynkny xdadyn tylakyl"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "یتارسین توکّل نی خداغه قیل حاجت لارینک روا بولور مشکل",
+        "latin_text": "ytarsyn twk~l ny xdaġh qyl ḥaǰt larynk rwa bwlwr mškl"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "ایشلارینک آسان بولغای امانت حق جاییغه توشکای",
+        "latin_text": "ayšlarynk āsan bwlġay amant ḥq ǰayyġh twškay"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "شمال دیک اوچارلیق جانوردیک بخت دولت کلور گمان",
+        "latin_text": "šmal dyk awčarlyq ǰanwrdyk bxt dwlt klwr gman"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "قیلماغان یرلاردین رزقه روزانه معیشت نعمت لار آرتار",
+        "latin_text": "qylmaġan yrlardyn rzqh rwzanh mʾyšt nʾmt lar ārtar"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "دشمن که نصرت تاپارسین بلکه حسد قیلغوچی دشمن کور",
+        "latin_text": "dšmn kh nṣrt taparsyn blkh ḥsd qylġwčy dšmn kwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "بولوب مقهور بولور عزّت حرمت لارینک زیاده بولور",
+        "latin_text": "bwlwb mqhwr bwlwr ʾz~t ḥrmt larynk zyadh bwlwr"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "اولوغ لاردین دوست مهربانلیق کورورسین سوداگرلیک",
+        "latin_text": "awlwġ lardyn dwst mhrbanlyq kwrwrsyn swdagrlyk"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "الماق ساتماق دین تولا فل مال کلور سفر مبارک نکاح",
+        "latin_text": "almaq satmaq dyn twla fl mal klwr sfr mbark nkaḥ"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "کونکلداکی دیک بولور اوغری الغان ییتکان یوق بولغان",
+        "latin_text": "kwnkldaky dyk bwlwr awġry alġan yytkan ywq bwlġan"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "تاپیلور هرنه ایشلارینک پوتارلار اغریققه آیت شفاه",
+        "latin_text": "tapylwr hrnh ayšlarynk pwtarlar aġryqqh āyt šfah"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "اوقوتوب صلوات درودی شریف نی اوقوب ارواح",
+        "latin_text": "awqwtwb ṣlwat drwdy šryf ny awqwb arwaḥ"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "پر مشایخ لارغه ید بوی قیلغیل کُلّی مرادینکغه یتارسن",
+        "latin_text": "pr mšayx larġh yd bwy qylġyl kŭl~y mradynkġh ytarsn"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "انشأالله د د ب قَالَ الله تَعالَى اِنَّا فَتَحْنٰا بِیْنٰا",
+        "latin_text": "anšʾaallh d d b qăală allh tăʾalăى aĭn~ăa fătăḥ°nàa bĭy°nàa"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "24a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_024_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_024_r.Lanczos.800.65_24a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_024_r.Lanczos.800.65_24a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "لَکَ وَفَتْحٰا بَیْنَا ألاَیَةَ حضرت امام جعفر صادق رضی",
+        "latin_text": "lăkă wăfăt°ḥàa băy°năa ʾalaăyăṫă ḥżrt amam ǰʾfr ṣadq rży"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "الله عنه دین نقل قیلیب دورلارکیم ای فال ایکاسی بیلکیل",
+        "latin_text": "allh ʾnh dyn nql qylyb dwrlarkym ay fal aykasy bylkyl"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "آکاه بولغیل بو فال سنکا کلیب دور خدای تعالی سنکا تولا دشمن",
+        "latin_text": "ākah bwlġyl bw fal snka klyb dwr xday tʾaly snka twla dšmn"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "لارنینک اوستیکا نصرت بریب دور عاقبت سیونوب بر شاد",
+        "latin_text": "larnynk awstyka nṣrt bryb dwr ʾaqbt sywnwb br šad"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "مانلیق غه چیقارسین عزّت حرمت لارینک زیاده بولور",
+        "latin_text": "manlyq ġh čyqarsyn ʾz~t ḥrmt larynk zyadh bwlwr"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "دشمن لارینک خوار بولوب ایاغ آستیغه پایمان بولور",
+        "latin_text": "dšmn larynk xwar bwlwb ayaġ āstyġh payman bwlwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "بلکه مقهور بولور سنکا بر سفر واقع بولور سفردین یانماغیل",
+        "latin_text": "blkh mqhwr bwlwr snka br sfr waqʾ bwlwr sfrdyn yanmaġyl"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "فائده لارنی تولا کورورسن مبارک دور اکر یانسانک",
+        "latin_text": "faʾydh larny twla kwrwrsn mbark dwr akr yansank"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "پشیمان بولورسین خدای تعالی سنکا تورلوک تورلوک",
+        "latin_text": "pšyman bwlwrsyn xday tʾaly snka twrlwk twrlwk"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "نعمت لارنی بریب شادمان خرسند قیلور هرنه مصلحت",
+        "latin_text": "nʾmt larny bryb šadman xrsnd qylwr hrnh mṣlḥt"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "و هرنه نیت دین بولسه یخشی نکاح مبارک امانت اوز جایی",
+        "latin_text": "w hrnh nyt dyn bwlsh yxšy nkaḥ mbark amant awz ǰayy"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "غه قرار تاپار اغریق شفا تاپار یوق بولغان",
+        "latin_text": "ġh qrar tapar aġryq šfa tapar ywq bwlġan"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "ییتکان قاچقان غائب تاپیلور انشأالله تعالی",
+        "latin_text": "yytkan qačqan ġaʾyb tapylwr anšʾaallh tʾaly"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "د د ج قَالَ اللهِ تَعالَى اَلَیْهِ یَصْعَدَألکُلَّمُ ألَطیْبَ",
+        "latin_text": "d d ǰ qăală allhĭ tăʾalăى aălăy°hĭ yăṣ°ʾădăʾalkŭl~ămŭ ʾalăṭy°bă"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "24b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_024_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_024_v.Lanczos.800.65_24b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_024_v.Lanczos.800.65_24b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ألاَیَةَ حضرت امام جعفر صادق رضی الله عنه دین نقلی",
+        "latin_text": "ʾalaăyăṫă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nqly"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "قیلیب دورلارکیم ای فال ایکاسی آکاه دانا بولغیل بو فال",
+        "latin_text": "qylyb dwrlarkym ay fal aykasy ākah dana bwlġyl bw fal"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "سنکا کلیب دور خدای تعالی نینک برکان نعمت لاریکه شکر",
+        "latin_text": "snka klyb dwr xday tʾaly nynk brkan nʾmt larykh škr"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "قیلیب قناعت قیل تولانی دیب آزدین قوروق قالماغیل خداغه",
+        "latin_text": "qylyb qnaʾt qyl twlany dyb āzdyn qwrwq qalmaġyl xdaġh"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "عبادت قیلیب طلب ده بول ذکر تسبیح تهلیل درود اوقوب",
+        "latin_text": "ʾbadt qylyb ṭlb dh bwl z_kr tsbyḥ thlyl drwd awqwb"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "نمازلارنی ترک قیلمای خداغه توکّل قیل جمع مشکل ایشلارینک",
+        "latin_text": "nmazlarny trk qylmay xdaġh twk~l qyl ǰmʾ mškl ayšlarynk"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "آسان بولغوسی دور آلماق ساتماق دین سوداکرلیک دین",
+        "latin_text": "āsan bwlġwsy dwr ālmaq satmaq dyn swdakrlyk dyn"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "شریکت سفردین نکاحدین فائده بولور انشأالله تعالی",
+        "latin_text": "šrykt sfrdyn nkaḥdyn faʾydh bwlwr anšʾaallh tʾaly"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "د ا ا قَالَ الله تَعٰالَى فَغْلَوَهْ ثُمُّ ألحَجِيْمَ ألاَیَةَ حضرت",
+        "latin_text": "d a a qăală allh tăʾàalăى făġ°lăwăh° ṯŭm~ŭ ʾalḥăǰĭẏ°mă ʾalaăyăṫă ḥżrt"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "امام جعفر صادق رضی الله عنه دین نقل قیلیب دورلارکیم",
+        "latin_text": "amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwrlarkym"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "ای فال ایکاسی بو فال سنکا کلیب دور سنکا بر دیشوارلیق",
+        "latin_text": "ay fal aykasy bw fal snka klyb dwr snka br dyšwarlyq"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "غم قایغو کورونوب تورور اوزونک حیران بولوب ایش",
+        "latin_text": "ġm qayġw kwrwnwb twrwr awzwnk ḥyran bwlwb ayš"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "لارینک پوتمای تورغاندیک قولونکدین بر نمرسه یوق بولماق",
+        "latin_text": "larynk pwtmay twrġandyk qwlwnkdyn br nmrsh ywq bwlmaq"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "اوغری قراقچی آلماق ییتماک که دلیل قیلادور دشمن",
+        "latin_text": "awġry qraqčy ālmaq yytmak kh dlyl qyladwr dšmn"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "25a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_025_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_025_r.Lanczos.800.65_25a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_025_r.Lanczos.800.65_25a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "لارینک تولادور سلامت قالورسین درودی شریف ختم اوقو",
+        "latin_text": "larynk twladwr slamt qalwrsyn drwdy šryf xtm awqw"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "توب طلب ده بول انشأالله مرادینک غه یتارسین د ب ب",
+        "latin_text": "twb ṭlb dh bwl anšʾaallh mradynk ġh ytarsyn d b b"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "قالَ اللهِ تَعٰالَى یؤمِیْذِ یَفْرُحِ المؤمَنِیْنَ بَنْصَرِ اللهِ ألاَیَةَ",
+        "latin_text": "qală allhĭ tăʾàalăى ywʾmĭy°z_ĭ yăf°rŭḥĭ almwʾmănĭy°nă băn°ṣărĭ allhĭ ʾalaăyăṫă"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "حضرت امام جعفر صادق رضی الله عنه دین نقلی دور",
+        "latin_text": "ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nqly dwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ای فال ایکاسی بیلکیل بو فال سنکا کلیب دور بشارت",
+        "latin_text": "ay fal aykasy bylkyl bw fal snka klyb dwr bšart"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "دور سنکا بر سفر واقعه بولغوسی دور مبارکلیک دور سفرده",
+        "latin_text": "dwr snka br sfr waqʾh bwlġwsy dwr mbarklyk dwr sfrdh"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "تولا فائده نفع کورورسین جمع بلآلاردین و قضالاردین",
+        "latin_text": "twla faʾydh nfʾ kwrwrsyn ǰmʾ blālardyn w qżalardyn"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "خلاص بولورسین دشمن نینک مکر حیله سی امین قیلورلار",
+        "latin_text": "xlaṣ bwlwrsyn dšmn nynk mkr ḥylh sy amyn qylwrlar"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "اوزونک برله تعویز همراه قیلغیل مرادینکغه یتارسین انشأ الله",
+        "latin_text": "awzwnk brlh tʾwyz hmrah qylġyl mradynkġh ytarsyn anšʾa allh"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "د ج ج قَالَ الله تَعٰالَى هَلْ جَزاُءِ ألاَحْسَانِ اِلّٰا الّٰا",
+        "latin_text": "d ǰ ǰ qăală allh tăʾàalăى hăl° ǰăzaŭʾĭ ʾalaăḥ°săanĭ aĭl~àa al~àa"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "الْاَحْسَانِ ألاَیَةَ حضرت امام جعفر صادق رضی الله عنه",
+        "latin_text": "al°aăḥ°săanĭ ʾalaăyăṫă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "دین نقل قیلیب دورلارکیم ای فال ایکاسی بیلکیل بو فال سنکا",
+        "latin_text": "dyn nql qylyb dwrlarkym ay fal aykasy bylkyl bw fal snka"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "کلیب دور خدای تعالی غه نیاز التماس قیلیب طلب قیلغیل",
+        "latin_text": "klyb dwr xday tʾaly ġh nyaz altmas qylyb ṭlb qylġyl"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "هر ایشقه الدیرماغیل بو نیت و مصلحت نی بر نچه کون قویغیل",
+        "latin_text": "hr ayšqh aldyrmaġyl bw nyt w mṣlḥt ny br nčh kwn qwyġyl"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "25b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_025_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_025_v.Lanczos.800.65_25b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_025_v.Lanczos.800.65_25b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "صبر قیلغیل صبری برله مرادینکغه یتارسین بسته لیک",
+        "latin_text": "ṣbr qylġyl ṣbry brlh mradynkġh ytarsyn bsth lyk"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "توشکان ایشلارینک کشاده بولور دشمن دعواگرغه اولوغ",
+        "latin_text": "twškan ayšlarynk kšadh bwlwr dšmn dʾwagrġh awlwġ"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "لارغه ظفر تاپارسین تولا منفعت لار غائب دین یتار انشأ",
+        "latin_text": "larġh ẓfr taparsyn twla mnfʾt lar ġaʾyb dyn ytar anšʾa"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "الله د ا د قالَ الله تَعٰالَى اِنَّ اللهِ مَعَ ألصٰابَرِیْنَ ألاَیَةَ",
+        "latin_text": "allh d a d qală allh tăʾàalăى aĭn~ă allhĭ măʾă ʾalṣàabărĭy°nă ʾalaăyăṫă"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "حضرت امام جعفر صادق رضی الله عنه دین نقل قیلیب دور",
+        "latin_text": "ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb dwr"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "لارکیم ای فال ایکاسی آکاه دانا بولغیلکیم بو فال سنکا کلیب دور",
+        "latin_text": "larkym ay fal aykasy ākah dana bwlġylkym bw fal snka klyb dwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "هرنه نیت و هرنه مصلحت لارینک و هر قایداغ ایشلارینک",
+        "latin_text": "hrnh nyt w hrnh mṣlḥt larynk w hr qaydaġ ayšlarynk"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "بولسه صبر قیلغیل دعواغه آلدیرماغیل اکر صبر قیلماسانک",
+        "latin_text": "bwlsh ṣbr qylġyl dʾwaġh āldyrmaġyl akr ṣbr qylmasank"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "بر بلآ غم قایغوغه مبتلا بولورسین پشیمان قیلغونک دور",
+        "latin_text": "br blā ġm qayġwġh mbtla bwlwrsyn pšyman qylġwnk dwr"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "دشمن لارینک تولادور خبردار بولوب طلب ده بولغیل",
+        "latin_text": "dšmn larynk twladwr xbrdar bwlwb ṭlb dh bwlġyl"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "انشأ الله مرادینک یتارسین د ب د قَالَ اللهِ تَعٰالَى",
+        "latin_text": "anšʾa allh mradynk ytarsyn d b d qăală allhĭ tăʾàalăى"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "يَوْلَجِ أللَيْلِ فِي النَّهارِ وَيَوْلَجِ ألنَهٰارِ فِي أللَيْلِ ألاَیَةَ",
+        "latin_text": "ẏăw°lăǰĭ ʾallăẏ°lĭ fĭẏ alnă~harĭ wăẏăw°lăǰĭ ʾalnăhàarĭ fĭẏ ʾallăẏ°lĭ ʾalaăyăṫă"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "دلیل دور حضرت امام جعفر صادق رضی الله عنه دین نقل",
+        "latin_text": "dlyl dwr ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nql"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "قیلیب دورلارکیم ای فال ایکاسی بیلکیل آکاه بولغیل بو فال",
+        "latin_text": "qylyb dwrlarkym ay fal aykasy bylkyl ākah bwlġyl bw fal"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "26a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_026_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_026_r.Lanczos.800.65_26a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_026_r.Lanczos.800.65_26a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "سنکا کلیب دور بشارت دور حقّینک امانت ملک میراث",
+        "latin_text": "snka klyb dwr bšart dwr ḥq~ynk amant mlk myraṯ"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "قولونکغه کلور دشمن لارینک شریدین امین بولورسین",
+        "latin_text": "qwlwnkġh klwr dšmn larynk šrydyn amyn bwlwrsyn"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "تارلیقدین قوتولوب غم قایغولاردین خلاص بولورسین بر کمرسه",
+        "latin_text": "tarlyqdyn qwtwlwb ġm qayġwlardyn xlaṣ bwlwrsyn br kmrsh"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "سنکا دوستلوق محبّت لیک بولوب سنکا تولا فایده لار بولور",
+        "latin_text": "snka dwstlwq mḥb~t lyk bwlwb snka twla faydh lar bwlwr"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "انشأ الله د ب ا قَالَ الله تَعٰالَى وَاَلَیْهِ یَرْجَعُ الُاَ مِرکُلَّهُ",
+        "latin_text": "anšʾa allh d b a qăală allh tăʾàalăى wăaălăy°hĭ yăr°ǰăʾŭ alŭaă mĭrkŭl~ăhŭ"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "فٰاعَبَدِهُ وَ تَوَکَّلُ عَلَی اللهُ ألاَیَةَ حضرت امام جعفر صادق",
+        "latin_text": "fàaʾăbădĭhŭ wă tăwăk~ălŭ ʾălăy allhŭ ʾalaăyăṫă ḥżrt amam ǰʾfr ṣadq"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین نقل قیلیب دورلارکیم بو فال سنکا کلیب",
+        "latin_text": "rży allh ʾnh dyn nql qylyb dwrlarkym bw fal snka klyb"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "دور ای فال ایکاسی بیلکیل بشارت دور سنینک هرنه نیت",
+        "latin_text": "dwr ay fal aykasy bylkyl bšart dwr snynk hrnh nyt"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "و مصلحت لارینک بولسه حاجت لارینک روا بولور غایب کلور",
+        "latin_text": "w mṣlḥt larynk bwlsh ḥaǰt larynk rwa bwlwr ġayb klwr"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "اوغری الغان ییتکان قاچقان یوق بولغان تاپیلور دشمن",
+        "latin_text": "awġry alġan yytkan qačqan ywq bwlġan tapylwr dšmn"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "لارینک تولادور حسد قیلور اوزونک آکاه بولغیل توکّل",
+        "latin_text": "larynk twladwr ḥsd qylwr awzwnk ākah bwlġyl twk~l"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "قیلیب خداغه عبادت قیلیب طلب ده بول اوزونک برله تعویز",
+        "latin_text": "qylyb xdaġh ʾbadt qylyb ṭlb dh bwl awzwnk brlh tʾwyz"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "همراه قیل عاقبت شادمانلیق غه چقیب سیونورسین انشأ",
+        "latin_text": "hmrah qyl ʾaqbt šadmanlyq ġh čqyb sywnwrsyn anšʾa"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "الله د ا د قَالَ الله تَعٰالَى لَمَنَ ألمُلکِ ألیَوْم للَّةَ ألوٰا",
+        "latin_text": "allh d a d qăală allh tăʾàalăى lămănă ʾalmŭlkĭ ʾalyăw°m ll~ăṫă ʾalwàa"
+      },
+      {
+        "line_num": "15",
+        "zone_index": 0,
+        "arabic_text": "حِدِألقَهّٰارِ اَلاَیَةَ دلیل دور حضرت امام جعفر صادق",
+        "latin_text": "ḥĭdĭʾalqăh~àarĭ aălaăyăṫă dlyl dwr ḥżrt amam ǰʾfr ṣadq"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "26b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_026_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_026_v.Lanczos.800.65_26b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_026_v.Lanczos.800.65_26b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "رضی الله عنه دین نقل قیلیب دورلارکیم ای فال ایکاسی",
+        "latin_text": "rży allh ʾnh dyn nql qylyb dwrlarkym ay fal aykasy"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "بیلکیل آکاه دانا بول بو فال سنکا کلیب دور بر یاروغلوق",
+        "latin_text": "bylkyl ākah dana bwl bw fal snka klyb dwr br yarwġlwq"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "غه چقیب روشن لیک ده بولورسین قرانکغو غم قایغولار",
+        "latin_text": "ġh čqyb rwšn lyk dh bwlwrsyn qrankġw ġm qayġwlar"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "دین خلاص بولورسین الماق ساتماق سوداکرچیلیکدین",
+        "latin_text": "dyn xlaṣ bwlwrsyn almaq satmaq swdakrčylykdyn"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "سفردین فائده بولور بلآ و قضادین اِمین بولورسین",
+        "latin_text": "sfrdyn faʾydh bwlwr blā w qżadyn aĭmyn bwlwrsyn"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "قولونکدین چیقّان نمرسه نک بولسه قولونکغه کلور حاجت",
+        "latin_text": "qwlwnkdyn čyq~an nmrsh nk bwlsh qwlwnkġh klwr ḥaǰt"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "لارینک روا بولور غایب کلور خوش خبر کلور انشأ الله",
+        "latin_text": "larynk rwa bwlwr ġayb klwr xwš xbr klwr anšʾa allh"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "د ا ج قَالَ اللهِ تَعٰالَى اِذآ جٰاءَ نَصْرِاللهِ وَ ألفَتْحِ ألاَیَةَ",
+        "latin_text": "d a ǰ qăală allhĭ tăʾàalăى aĭz_ā ǰàaʾă năṣ°rĭallhĭ wă ʾalfăt°ḥĭ ʾalaăyăṫă"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "دلیل دور حضرت امام جعفر صادق رضی الله عنه دین",
+        "latin_text": "dlyl dwr ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "نقل قیلیب دورلارکیم ای فال ایکاسی بیلکیل آکاه دانا",
+        "latin_text": "nql qylyb dwrlarkym ay fal aykasy bylkyl ākah dana"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "بولغیل کیم بو فال سنکا کلیب دور و هرنه نیت قیلیب ایر",
+        "latin_text": "bwlġyl kym bw fal snka klyb dwr w hrnh nyt qylyb ayr"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "دینک ترک قیلغیل قموغ تورلوک ایشلار الدینکغه",
+        "latin_text": "dynk trk qylġyl qmwġ twrlwk ayšlar aldynkġh"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "کلور اولوغلار عمل دار منصب دارلار سنکا دوست بولور",
+        "latin_text": "klwr awlwġlar ʾml dar mnṣb darlar snka dwst bwlwr"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "غم قایغودین خلاص بولورسین خدای تعالی سنکا نعمت",
+        "latin_text": "ġm qayġwdyn xlaṣ bwlwrsyn xday tʾaly snka nʾmt"
+      },
+      {
+        "line_num": "15",
+        "zone_index": 0,
+        "arabic_text": "لار و رزق روزانه معیشت لارینک کنکر و فراوان",
+        "latin_text": "lar w rzq rwzanh mʾyšt larynk knkr w frawan"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "27a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_027_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_027_r.Lanczos.800.65_27a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_027_r.Lanczos.800.65_27a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "بولور دشمن دوست بولور دعوا باطل بولور نکاح مبارک سفر",
+        "latin_text": "bwlwr dšmn dwst bwlwr dʾwa baṭl bwlwr nkaḥ mbark sfr"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "دین فائده کورورسین اوزونک برله تعویز حرزاسمأ",
+        "latin_text": "dyn faʾydh kwrwrsyn awzwnk brlh tʾwyz ḥrzasmʾa"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "اِلهیَ همراه قیلغیل انشأ الله مرادینکغه یتارسین د ب ج",
+        "latin_text": "aĭlhyă hmrah qylġyl anšʾa allh mradynkġh ytarsyn d b ǰ"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "قَالَ الله تَعٰالَی وَ الّذِیْ فَطَرَنٰا فٰا قَضِ مٰا اَنْتَ قٰاضِ ألآیَتهَ",
+        "latin_text": "qăală allh tăʾàalăy wă al~z_ĭy° făṭărănàa fàa qăżĭ màa aăn°tă qàażĭ ʾalāyăthă"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "دلیل دور حضرت امام جعفر صادق رضی الله عنه دین نقل قیلیب",
+        "latin_text": "dlyl dwr ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "دورلارکیم ای فال ایکاسی بیلکیل آکاه دانا بولغیلکم بو",
+        "latin_text": "dwrlarkym ay fal aykasy bylkyl ākah dana bwlġylkm bw"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "فال سنکا کلیب دور اوشبو سنکا دلیلت قیلورلارکیم اوشبو",
+        "latin_text": "fal snka klyb dwr awšbw snka dlylt qylwrlarkym awšbw"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "یل نینک ایچیدا هیچ کشی برله دعوا قیلماغیل اولوغلارنینک",
+        "latin_text": "yl nynk ayčyda hyč kšy brlh dʾwa qylmaġyl awlwġlarnynk"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "آلدیغه بارماغیل دشمن لارینک تولادور حسد قیلور سنکا",
+        "latin_text": "āldyġh barmaġyl dšmn larynk twladwr ḥsd qylwr snka"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "بر زیان کلتورور هر نه ایشدا صبر قیل طلب ده بولغیل سفر",
+        "latin_text": "br zyan kltwrwr hr nh ayšda ṣbr qyl ṭlb dh bwlġyl sfr"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "دین فائده یوق دور آخری عاقبت مرادینک غه یتارسین",
+        "latin_text": "dyn faʾydh ywq dwr āxry ʾaqbt mradynk ġh ytarsyn"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "انشأ الله د ب ا قال الله تَعٰالَی وَ لَلّٰهُ مُلْکِ السّمَوٰاتِ",
+        "latin_text": "anšʾa allh d b a qal allh tăʾàalăy wă lăl~àhŭ mŭl°kĭ als~măwàatĭ"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "وَالْاَرْضِ ألاَیَتهَ حضرت امام جعفر صادق رضی الله عنه دین",
+        "latin_text": "wăal°aăr°żĭ ʾalaăyăthă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "نقل قیلیب دورلارکیم ای فال ایکاسی بیل کیل و آکاه دانا",
+        "latin_text": "nql qylyb dwrlarkym ay fal aykasy byl kyl w ākah dana"
+      },
+      {
+        "line_num": "15",
+        "zone_index": 0,
+        "arabic_text": "بولغیل کیم بو فال سنکا کلیب دور هر نیت و هر مصلحت بولسه",
+        "latin_text": "bwlġyl kym bw fal snka klyb dwr hr nyt w hr mṣlḥt bwlsh"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "27b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_027_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_027_v.Lanczos.800.65_27b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_027_v.Lanczos.800.65_27b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "یخشی دور مبارک بولغای حضرت ایوب علیه السّلام نینک",
+        "latin_text": "yxšy dwr mbark bwlġay ḥżrt aywb ʾlyh als~lam nynk"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "فالی دور خدای تعالی سنی سیوندورور شادمانلیق غه یتارسین",
+        "latin_text": "faly dwr xday tʾaly sny sywndwrwr šadmanlyq ġh ytarsyn"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "اولوغلاردین دوستلوق یتیب محبّت کورورسین آخری",
+        "latin_text": "awlwġlardyn dwstlwq ytyb mḥb~t kwrwrsyn āxry"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "ایش لارینک یخشی بولغوسی دور دشمن که نصرت تاپارسین",
+        "latin_text": "ayš larynk yxšy bwlġwsy dwr dšmn kh nṣrt taparsyn"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "مرادینکغه یتارسین انشأ الله د اج ا قَالَ الله تَعٰالَی",
+        "latin_text": "mradynkġh ytarsyn anšʾa allh d aǰ a qăală allh tăʾàalăy"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "قُلْ لَیْنَ اَجمعت اَجْمتَعَتْ ألاَنْسَ وَالْجِنْ ألاَیَتهَ دلیل دور",
+        "latin_text": "qŭl° lăy°nă aăǰmʾt aăǰ°mtăʾăt° ʾalaăn°să wăal°ǰĭn° ʾalaăyăthă dlyl dwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "حضرت امام جعفر صادق رضی الله عنه دین نقل قیلیب",
+        "latin_text": "ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nql qylyb"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "دورلارکیم ای فال ایکاسی بیلکیل آکاه و دانا بولغیل کیم",
+        "latin_text": "dwrlarkym ay fal aykasy bylkyl ākah w dana bwlġyl kym"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "بو فال سنکا کلیب دور سنکا بر شادلیق و سیونماکلیک غه",
+        "latin_text": "bw fal snka klyb dwr snka br šadlyq w sywnmaklyk ġh"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "دلیل دور قرانکغو غم قایغودین خلاص بولورسین مبارک",
+        "latin_text": "dlyl dwr qrankġw ġm qayġwdyn xlaṣ bwlwrsyn mbark"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "لیک برله سفر قیلورسین فائده تولا بولور ایکی نیت لیک دور",
+        "latin_text": "lyk brlh sfr qylwrsyn faʾydh twla bwlwr ayky nyt lyk dwr"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "هر قایسی نیت دین بولسه یخشی دور نکاح مبارک دور",
+        "latin_text": "hr qaysy nyt dyn bwlsh yxšy dwr nkaḥ mbark dwr"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "آلماق ساتماق دین فائده بولور اوغری الغان ییتکان",
+        "latin_text": "ālmaq satmaq dyn faʾydh bwlwr awġry alġan yytkan"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "قاچقان یوق بولغان تاپالور غائب حاظر بولور خوش",
+        "latin_text": "qačqan ywq bwlġan tapalwr ġaʾyb ḥaẓr bwlwr xwš"
+      },
+      {
+        "line_num": "15",
+        "zone_index": 0,
+        "arabic_text": "خبر بولغای انشا الله تعالی",
+        "latin_text": "xbr bwlġay anša allh tʾaly"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "28a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_028_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_028_r.Lanczos.800.65_28a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_028_r.Lanczos.800.65_28a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "د ا ج ْقال الله تعالی جَزٰأ وَ هُمْ عِنْدَرِ بِهُمْ جَنّٰاتِ عَدَنْ",
+        "latin_text": "d a ǰ °qal allh tʾaly ǰăzàʾa wă hŭm° ʾĭn°dărĭ bĭhŭm° ǰăn~àatĭ ʾădăn°"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "الاَیَتَهَ حضرت امام جعفر صادق رضی الله عنه دین نقل",
+        "latin_text": "alaăyătăhă ḥżrt amam ǰʾfr ṣadq rży allh ʾnh dyn nql"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "قیلیب دورلارکیم ای فال ایکاسی بیلکیل آکاه دانا بولغیل کیم",
+        "latin_text": "qylyb dwrlarkym ay fal aykasy bylkyl ākah dana bwlġyl kym"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "بو فال سنکا کلیب دور بشارت دور مرادینکغه یتیب",
+        "latin_text": "bw fal snka klyb dwr bšart dwr mradynkġh ytyb"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "حاجت لارینک روا بولغوسی دور سنکا حسد قیلغوچی",
+        "latin_text": "ḥaǰt larynk rwa bwlġwsy dwr snka ḥsd qylġwčy"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "دشمن لارینک هلاک بولور اولوغلاردین فائده کورور",
+        "latin_text": "dšmn larynk hlak bwlwr awlwġlardyn faʾydh kwrwr"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "سین ملک میراث حاصل بولور بلآ و قضادین اِمین",
+        "latin_text": "syn mlk myraṯ ḥaṣl bwlwr blā w qżadyn aĭmyn"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "بولورسین سفرکه یخشی نکاح غه مبارک آلماق ساتماق سوداگر",
+        "latin_text": "bwlwrsyn sfrkh yxšy nkaḥ ġh mbark ālmaq satmaq swdagr"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "لیک شرکت اوبدان دور دهقانچیلیق دین فائده بولور",
+        "latin_text": "lyk šrkt awbdan dwr dhqančylyq dyn faʾydh bwlwr"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "اوغری الغان ییتکان قاچقان یوق بولغان لار تاپیلور",
+        "latin_text": "awġry alġan yytkan qačqan ywq bwlġan lar tapylwr"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "غایب حاظر بولور کسل اغریق بولسه عزایم اوقوماق",
+        "latin_text": "ġayb ḥaẓr bwlwr ksl aġryq bwlsh ʾzaym awqwmaq"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "کیراک تعویز حرز تمار همراه قیلماق کراک طلب لارینک نی",
+        "latin_text": "kyrak tʾwyz ḥrz tmar hmrah qylmaq krak ṭlb larynk ny"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "ترک قیلماغیل نماز عبادت ذکر تسبیح تهلیل بیلّه بولوب",
+        "latin_text": "trk qylmaġyl nmaz ʾbadt z_kr tsbyḥ thlyl byl~h bwlwb"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "صلوات درودی شریف نی تولا اوقوغیل مرادینکغه یتارسین",
+        "latin_text": "ṣlwat drwdy šryf ny twla awqwġyl mradynkġh ytarsyn"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "28b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_028_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_028_v.Lanczos.800.65_28b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_028_v.Lanczos.800.65_28b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "انشأ الله تعالی ج ا ا قَالَ اللهِ تَعٰالَی لَقَدْ جٰاءِ کُمْ رَسُوْلَ",
+        "latin_text": "anšʾa allh tʾaly ǰ a a qăală allhĭ tăʾàalăy lăqăd° ǰàaʾĭ kŭm° răsŭw°lă"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "مِنْ اَنْفَشکُمْ عَزِیْزُ ألاَیَتهَ حضرت امام جعفر صادق رضی الله",
+        "latin_text": "mĭn° aăn°făškŭm° ʾăzĭy°zŭ ʾalaăyăthă ḥżrt amam ǰʾfr ṣadq rży allh"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "عنه دین نقلی قیلیب دورلارکیم ای فال ایکاسی بو فال سنکا کلیب",
+        "latin_text": "ʾnh dyn nqly qylyb dwrlarkym ay fal aykasy bw fal snka klyb"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "دور سنینک بر نچه دشمن لارینک بار الدینکدا دوستلوق",
+        "latin_text": "dwr snynk br nčh dšmn larynk bar aldynkda dwstlwq"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "قیلورلار کونکل لاریدین مینک مینک مکر حیله لار",
+        "latin_text": "qylwrlar kwnkl larydyn mynk mynk mkr ḥylh lar"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "باردور اولاردین غافل بولماغیل اوزونک بیلّه تعویز",
+        "latin_text": "bardwr awlardyn ġafl bwlmaġyl awzwnk byl~h tʾwyz"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "همراه قیلیب درود نجات اوقوب طلب ده بولوب نماز",
+        "latin_text": "hmrah qylyb drwd nǰat awqwb ṭlb dh bwlwb nmaz"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "لارینکنی قضا قیلمای خداغه توکّل قیلغیل ختم اوقوتوب",
+        "latin_text": "larynkny qża qylmay xdaġh twk~l qylġyl xtm awqwtwb"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "مزار مشایخ لارغه ید بوی قیلغیل انشا الله تعالی",
+        "latin_text": "mzar mšayx larġh yd bwy qylġyl anša allh tʾaly"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "هُوَألرَحْمٰنْ بِاِذْنِ اللهِ الْمُلَکِ الْمِنٰانْ",
+        "latin_text": "hŭwăʾalrăḥ°màn° bĭaĭz_°nĭ allhĭ al°mŭlăkĭ al°mĭnàan°"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "تمت تمام",
+        "latin_text": "tmt tmam"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "۱۳۴۷ ینجی یلینده",
+        "latin_text": "۱۳۴۷ ynǰy ylyndh"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "29a",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_029_r.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_029_r.Lanczos.800.65_29a.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_029_r.Lanczos.800.65_29a.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ا صفحه صفحه",
+        "latin_text": "a ṣfḥh ṣfḥh"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "ا ا ا ۳ ب ب ا ۱۸",
+        "latin_text": "a a a ۳ b b a"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "ا ا ب ۴ ب ب ج ۱۹",
+        "latin_text": "a a b ۴ b b ǰ"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "ا ا ج ۶ ب ب ج ۲۰",
+        "latin_text": "a a ǰ ۶ b b ǰ"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ا د د ۷ ب ب ا ا ۲۱",
+        "latin_text": "a d d ۷ b b a a ۲۱"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "ا ب ا ۸ ب ج ج ۲۲",
+        "latin_text": "a b a ۸ b ǰ ǰ ۲۲"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "ا ج ا ۸ ب ج د ۲۳",
+        "latin_text": "a ǰ a ۸ b ǰ d ۲۳"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "ا د ا ۹ ب ج ب ۲۴",
+        "latin_text": "a d a ۹ b ǰ b ۲۴"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "ا ب ج ۱۰ ب د ب ۲۵",
+        "latin_text": "a b ǰ ۱۰ b d b ۲۵"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "ا ب د ۱۱ ب ا ب ۲۶",
+        "latin_text": "a b d ۱۱ b a b ۲۶"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "ا ج ب ۱۲ ب ا ج ۲۷",
+        "latin_text": "a ǰ b ۱۲ b a ǰ ۲۷"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "ا ب د ۱۳ ب ا د ۲۸",
+        "latin_text": "a b d ۱۳ b a d ۲۸"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "ا ج د ۱۴ ب د ا ۳۰",
+        "latin_text": "a ǰ d ۱۴ b d a ۳۰"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "ا د ج ۱۵ ب د ج ۳۱",
+        "latin_text": "a d ǰ ۱۵ b d ǰ ۳۱"
+      },
+      {
+        "line_num": "15",
+        "zone_index": 0,
+        "arabic_text": "ب ج ا ۳۲",
+        "latin_text": "b ǰ a ۳۲"
+      },
+      {
+        "line_num": "16",
+        "zone_index": 0,
+        "arabic_text": "ب صفحه ب د د ۳۷",
+        "latin_text": "b ṣfḥh b d d ۳۷"
+      },
+      {
+        "line_num": "17",
+        "zone_index": 0,
+        "arabic_text": "ب ب ب ۱۷",
+        "latin_text": "b b b ۱۷"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "29b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_029_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_029_v.Lanczos.800.65_29b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_029_v.Lanczos.800.65_29b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "ج د صفحه",
+        "latin_text": "ǰ d ṣfḥh"
+      },
+      {
+        "line_num": "2",
+        "zone_index": 0,
+        "arabic_text": "ج ج ج ۳۲ صفحه د د د ۴۴",
+        "latin_text": "ǰ ǰ ǰ ۳۲ ṣfḥh d d d ۴۴"
+      },
+      {
+        "line_num": "3",
+        "zone_index": 0,
+        "arabic_text": "ج ج ا ۳۳ د د ا ۴۵",
+        "latin_text": "ǰ ǰ a ۳۳ d d a ۴۵"
+      },
+      {
+        "line_num": "4",
+        "zone_index": 0,
+        "arabic_text": "ج ج ب ۳۴ د د ب ۴۶",
+        "latin_text": "ǰ ǰ b ۳۴ d d b ۴۶"
+      },
+      {
+        "line_num": "5",
+        "zone_index": 0,
+        "arabic_text": "ج ج د ۳۵ د د ج ۴۷",
+        "latin_text": "ǰ ǰ d ۳۵ d d ǰ ۴۷"
+      },
+      {
+        "line_num": "6",
+        "zone_index": 0,
+        "arabic_text": "ج ب ب ۳۶ د ا ا ۴۸",
+        "latin_text": "ǰ b b ۳۶ d a a ۴۸"
+      },
+      {
+        "line_num": "7",
+        "zone_index": 0,
+        "arabic_text": "ج د د ۳۶ د ج ج ۴۹",
+        "latin_text": "ǰ d d ۳۶ d ǰ ǰ ۴۹"
+      },
+      {
+        "line_num": "8",
+        "zone_index": 0,
+        "arabic_text": "ج ا د ۳۸ د ب ب ۴۹",
+        "latin_text": "ǰ a d ۳۸ d b b ۴۹"
+      },
+      {
+        "line_num": "9",
+        "zone_index": 0,
+        "arabic_text": "ج ا ج ۳۹ د ا د ۵۰",
+        "latin_text": "ǰ a ǰ ۳۹ d a d ۵۰"
+      },
+      {
+        "line_num": "10",
+        "zone_index": 0,
+        "arabic_text": "ج ب ج ۴۰ د ب د ۵۰",
+        "latin_text": "ǰ b ǰ ۴۰ d b d ۵۰"
+      },
+      {
+        "line_num": "11",
+        "zone_index": 0,
+        "arabic_text": "ج د ج ۴۰ د ب ا ۵۱",
+        "latin_text": "ǰ d ǰ ۴۰ d b a ۵۱"
+      },
+      {
+        "line_num": "12",
+        "zone_index": 0,
+        "arabic_text": "د ا د ۵۱",
+        "latin_text": "d a d ۵۱"
+      },
+      {
+        "line_num": "13",
+        "zone_index": 0,
+        "arabic_text": "ج د ب ۴۱ د ا ج ۵۲",
+        "latin_text": "ǰ d b ۴۱ d a ǰ ۵۲"
+      },
+      {
+        "line_num": "14",
+        "zone_index": 0,
+        "arabic_text": "ج ب د ۴۲ د ب ج ۵۳",
+        "latin_text": "ǰ b d ۴۲ d b ǰ ۵۳"
+      },
+      {
+        "line_num": "15",
+        "zone_index": 0,
+        "arabic_text": "ج ب ا ۴۳ د ب ا ۵۳",
+        "latin_text": "ǰ b a ۴۳ d b a ۵۳"
+      },
+      {
+        "line_num": "16",
+        "zone_index": 0,
+        "arabic_text": "ج د ا ۴۴ د ج ا ۵۴",
+        "latin_text": "ǰ d a ۴۴ d ǰ a ۵۴"
+      },
+      {
+        "line_num": "17",
+        "zone_index": 0,
+        "arabic_text": "ج ا ا ۵۶ د ا ج ۵۵",
+        "latin_text": "ǰ a a ۵۶ d a ǰ ۵۵"
+      },
+      {
+        "line_num": "18",
+        "zone_index": 0,
+        "arabic_text": "د ج د ۲۹",
+        "latin_text": "d ǰ d ۲۹"
+      }
+    ]
+  },
+  {
+    "manuscript_id": "Jarring_Prov_8",
+    "surface_id": "30b",
+    "online_image_url": "https://uyghur.linguistics.indiana.edu/2015/images/Jarring_Prov_8/Jarring_Prov_8_fol_030_v.Lanczos.800.65.jpg",
+    "local_image_path": "images/Jarring_Prov_8/Jarring_Prov_8_fol_030_v.Lanczos.800.65_30b.jpg",
+    "absolute_image_path": "jarring_manuscripts_data/images/Jarring_Prov_8/Jarring_Prov_8_fol_030_v.Lanczos.800.65_30b.jpg",
+    "lines": [
+      {
+        "line_num": "1",
+        "zone_index": 0,
+        "arabic_text": "Prov. 8",
+        "latin_text": "Prov. 8"
+      }
+    ]
+  }
+]
